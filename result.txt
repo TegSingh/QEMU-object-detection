@@ -1,0 +1,4138 @@
+Generated classification objects through online XML files
+Inference time:  1.8301992416381836
+Boundary box: car:  193   23   22   22
+Boundary box: car:  145   26   33   33
+Boundary box: car:  260   68   27   27
+Boundary box: car:  253   56   45   45
+Boundary box: car:  224   87   54   54
+Inference time:  1.3681297302246094
+Boundary box: car:  193   23   22   22
+Boundary box: car:  145   26   33   33
+Boundary box: car:  260   68   27   27
+Boundary box: car:  253   56   45   45
+Boundary box: car:  224   87   54   54
+Inference time:  1.5127019882202148
+Boundary box: car:  274   27   27   27
+Boundary box: car:  145   29   30   30
+Boundary box: car:  54   5   50   50
+Boundary box: car:  251   57   43   43
+Boundary box: car:  1   74   26   26
+Boundary box: car:  222   83   57   57
+Inference time:  1.407747507095337
+Boundary box: car:  273   28   26   26
+Boundary box: car:  145   29   30   30
+Boundary box: car:  54   5   50   50
+Boundary box: car:  1   74   26   26
+Boundary box: car:  174   79   50   50
+Boundary box: car:  221   82   59   59
+Boundary box: car:  254   57   43   43
+Inference time:  1.2603273391723633
+Boundary box: car:  272   28   26   26
+Boundary box: car:  144   31   28   28
+Boundary box: car:  251   55   43   43
+Boundary box: car:  220   77   62   62
+Inference time:  0.8659391403198242
+Boundary box: car:  143   31   28   28
+Boundary box: car:  272   27   27   27
+Boundary box: car:  188   88   30   30
+Boundary box: car:  222   78   60   60
+Boundary box: pedestrian:  234   98   20   39
+Inference time:  0.9726550579071045
+Boundary box: car:  189   23   24   24
+Boundary box: car:  144   34   23   23
+Boundary box: car:  263   62   29   29
+Boundary box: car:  225   78   58   58
+Inference time:  0.9728696346282959
+Boundary box: car:  175   16   21   21
+Boundary box: car:  191   25   22   22
+Boundary box: car:  271   27   26   26
+Boundary box: car:  54   5   50   50
+Boundary box: car:  260   57   36   36
+Boundary box: car:  225   74   59   59
+Inference time:  1.0331497192382812
+Boundary box: car:  190   26   22   22
+Boundary box: car:  276   29   20   20
+Boundary box: car:  140   33   28   28
+Boundary box: car:  54   5   50   50
+Boundary box: car:  227   75   56   56
+Inference time:  1.0396552085876465
+Boundary box: car:  188   24   24   24
+Boundary box: car:  274   25   25   25
+Boundary box: car:  138   30   30   30
+Boundary box: car:  54   5   50   50
+Boundary box: car:  228   72   56   56
+Boundary box: car:  255   50   43   43
+Inference time:  1.0324814319610596
+Boundary box: car:  188   26   22   22
+Boundary box: car:  272   24   27   27
+Boundary box: car:  138   36   26   26
+Boundary box: car:  54   5   50   50
+Boundary box: car:  256   50   40   40
+Boundary box: car:  228   68   59   59
+Inference time:  1.0265514850616455
+Boundary box: car:  187   26   23   23
+Boundary box: car:  272   24   27   27
+Boundary box: car:  134   29   35   35
+Boundary box: car:  54   5   50   50
+Boundary box: car:  265   57   29   29
+Boundary box: car:  232   69   55   55
+Inference time:  0.9822802543640137
+Boundary box: car:  272   24   26   26
+Boundary box: car:  187   26   23   23
+Boundary box: car:  130   26   43   43
+Boundary box: car:  54   5   50   50
+Boundary box: car:  233   67   55   55
+Inference time:  0.9162318706512451
+Boundary box: car:  186   25   25   25
+Boundary box: car:  172   18   21   21
+Boundary box: car:  136   37   26   26
+Boundary box: car:  272   24   26   26
+Boundary box: car:  232   67   55   55
+Boundary box: car:  190   63   49   49
+Inference time:  0.9969644546508789
+Boundary box: car:  184   27   24   24
+Boundary box: car:  273   24   24   24
+Boundary box: car:  129   32   36   36
+Boundary box: car:  236   65   54   54
+Inference time:  1.0837206840515137
+Boundary box: car:  275   25   22   22
+Boundary box: car:  185   28   23   23
+Boundary box: car:  127   31   38   38
+Boundary box: car:  234   63   55   55
+Inference time:  1.0651631355285645
+Boundary box: car:  184   26   25   25
+Boundary box: car:  270   22   26   26
+Boundary box: car:  126   32   37   37
+Boundary box: car:  235   62   56   56
+Boundary box: pedestrian:  245   76   22   46
+Inference time:  1.1116743087768555
+Boundary box: car:  274   24   23   23
+Boundary box: car:  183   27   25   25
+Boundary box: car:  126   33   36   36
+Boundary box: car:  237   62   52   52
+Boundary box: car:  158   160   70   70
+Inference time:  1.2211737632751465
+Boundary box: car:  182   28   24   24
+Boundary box: car:  123   31   39   39
+Boundary box: car:  238   62   51   51
+Inference time:  0.8340418338775635
+Boundary box: car:  171   20   20   20
+Boundary box: car:  180   28   25   25
+Boundary box: car:  122   30   41   41
+Boundary box: car:  239   62   50   50
+Boundary box: car:  144   128   101   101
+Inference time:  1.0055978298187256
+Boundary box: car:  181   30   24   24
+Boundary box: car:  171   20   20   20
+Boundary box: car:  120   32   40   40
+Boundary box: car:  200   53   49   49
+Boundary box: car:  238   59   52   52
+Inference time:  1.075746774673462
+Boundary box: car:  179   29   26   26
+Boundary box: car:  122   42   28   28
+Boundary box: car:  119   31   42   42
+Boundary box: car:  266   44   34   34
+Boundary box: car:  242   58   50   50
+Boundary box: car:  175   150   60   60
+Inference time:  0.8749303817749023
+Boundary box: car:  168   21   21   21
+Boundary box: car:  179   31   24   24
+Boundary box: car:  114   32   43   43
+Boundary box: car:  240   55   53   53
+Boundary box: car:  176   145   63   63
+Inference time:  1.015753984451294
+Boundary box: car:  168   20   22   22
+Boundary box: car:  178   32   22   22
+Boundary box: car:  114   34   41   41
+Boundary box: car:  218   63   26   26
+Boundary box: car:  244   57   48   48
+Inference time:  1.0307157039642334
+Boundary box: car:  177   31   24   24
+Boundary box: car:  113   36   39   39
+Boundary box: car:  240   53   54   54
+Inference time:  1.3390820026397705
+Boundary box: car:  178   32   22   22
+Boundary box: car:  116   44   29   29
+Boundary box: car:  109   29   49   49
+Boundary box: car:  220   63   24   24
+Boundary box: car:  245   54   48   48
+Inference time:  0.935215950012207
+Boundary box: car:  175   30   27   27
+Boundary box: car:  116   46   26   26
+Boundary box: car:  245   53   48   48
+Boundary box: car:  170   119   80   80
+Inference time:  0.7689294815063477
+Boundary box: car:  272   19   26   26
+Boundary box: car:  108   34   43   43
+Boundary box: car:  222   61   23   23
+Boundary box: car:  247   52   48   48
+Inference time:  1.1229884624481201
+Boundary box: car:  274   20   24   24
+Boundary box: car:  176   35   23   23
+Boundary box: car:  104   35   45   45
+Boundary box: car:  246   50   50   50
+Boundary box: car:  194   126   60   60
+Inference time:  1.1992428302764893
+Boundary box: car:  168   22   21   21
+Boundary box: car:  274   20   22   22
+Boundary box: car:  104   42   36   36
+Boundary box: car:  246   49   50   50
+Boundary box: car:  190   115   74   74
+Inference time:  0.9107515811920166
+Boundary box: car:  103   40   39   39
+Boundary box: car:  244   45   55   55
+Boundary box: car:  99   32   54   54
+Boundary box: car:  198   128   50   50
+Inference time:  1.1316664218902588
+Boundary box: car:  172   38   21   21
+Boundary box: car:  101   40   41   41
+Boundary box: car:  237   26   76   76
+Boundary box: car:  250   53   43   43
+Inference time:  1.071077823638916
+Boundary box: car:  163   21   26   26
+Boundary box: car:  98   40   43   43
+Boundary box: car:  157   2   45   45
+Boundary box: car:  234   28   80   80
+Boundary box: car:  227   55   25   25
+Boundary box: car:  251   50   44   44
+Boundary box: car:  198   113   65   65
+Inference time:  1.1788489818572998
+Boundary box: car:  169   40   20   20
+Boundary box: car:  97   45   37   37
+Boundary box: car:  248   45   51   51
+Boundary box: car:  225   54   24   24
+Boundary box: car:  206   114   57   57
+Inference time:  0.8763458728790283
+Boundary box: car:  96   44   38   38
+Boundary box: car:  230   56   21   21
+Boundary box: car:  255   49   42   42
+Boundary box: car:  211   114   53   53
+Inference time:  0.9568614959716797
+Boundary box: car:  274   20   21   21
+Boundary box: car:  91   41   44   44
+Boundary box: car:  250   46   47   47
+Boundary box: car:  226   50   28   28
+Boundary box: car:  215   115   49   49
+Inference time:  0.9226205348968506
+Boundary box: car:  161   23   25   25
+Boundary box: car:  90   40   46   46
+Boundary box: car:  252   45   45   45
+Boundary box: car:  231   52   23   23
+Boundary box: car:  209   105   59   59
+Inference time:  0.9094758033752441
+Boundary box: car:  272   17   24   24
+Boundary box: car:  160   23   26   26
+Boundary box: car:  87   46   41   41
+Boundary box: car:  252   44   46   46
+Boundary box: car:  216   108   50   50
+Generated classification objects through online XML files
+Inference time:  1.6572463512420654
+Boundary box: car:  193   23   22   22
+Boundary box: car:  145   26   33   33
+Boundary box: car:  260   68   27   27
+Boundary box: car:  253   56   45   45
+Boundary box: car:  224   87   54   54
+Inference time:  1.019836187362671
+Boundary box: car:  193   23   22   22
+Boundary box: car:  145   26   33   33
+Boundary box: car:  260   68   27   27
+Boundary box: car:  253   56   45   45
+Boundary box: car:  224   87   54   54
+Inference time:  0.9619369506835938
+Boundary box: car:  274   27   27   27
+Boundary box: car:  145   29   30   30
+Boundary box: car:  54   5   50   50
+Boundary box: car:  251   57   43   43
+Boundary box: car:  1   74   26   26
+Boundary box: car:  222   83   57   57
+Inference time:  0.914294958114624
+Boundary box: car:  273   28   26   26
+Boundary box: car:  145   29   30   30
+Boundary box: car:  54   5   50   50
+Boundary box: car:  254   57   43   43
+Boundary box: car:  1   74   26   26
+Boundary box: car:  174   79   50   50
+Boundary box: car:  221   82   59   59
+Inference time:  1.1017332077026367
+Boundary box: car:  272   28   26   26
+Boundary box: car:  144   31   28   28
+Boundary box: car:  251   55   43   43
+Boundary box: car:  220   77   62   62
+Inference time:  1.078735589981079
+Boundary box: car:  143   31   28   28
+Boundary box: car:  272   27   27   27
+Boundary box: car:  188   88   30   30
+Boundary box: car:  222   78   60   60
+Boundary box: pedestrian:  234   98   20   39
+Inference time:  1.024838924407959
+Boundary box: car:  189   23   24   24
+Boundary box: car:  144   34   23   23
+Boundary box: car:  263   62   29   29
+Boundary box: car:  225   78   58   58
+Inference time:  1.5246632099151611
+Boundary box: car:  191   25   22   22
+Boundary box: car:  175   16   21   21
+Boundary box: car:  271   27   26   26
+Boundary box: car:  54   5   50   50
+Boundary box: car:  260   57   36   36
+Boundary box: car:  225   74   59   59
+Inference time:  0.9230031967163086
+Boundary box: car:  190   26   22   22
+Boundary box: car:  276   29   20   20
+Boundary box: car:  140   33   28   28
+Boundary box: car:  54   5   50   50
+Boundary box: car:  227   75   56   56
+Inference time:  1.0156817436218262
+Boundary box: car:  188   24   24   24
+Boundary box: car:  274   25   25   25
+Boundary box: car:  54   5   50   50
+Boundary box: car:  138   30   30   30
+Boundary box: car:  255   50   43   43
+Boundary box: car:  228   72   56   56
+Inference time:  1.0837352275848389
+Boundary box: car:  188   26   22   22
+Boundary box: car:  272   24   27   27
+Boundary box: car:  138   36   26   26
+Boundary box: car:  54   5   50   50
+Boundary box: car:  256   50   40   40
+Boundary box: car:  228   68   59   59
+Inference time:  1.085728645324707
+Boundary box: car:  187   26   23   23
+Boundary box: car:  272   24   27   27
+Boundary box: car:  134   29   35   35
+Boundary box: car:  265   57   29   29
+Boundary box: car:  54   5   50   50
+Boundary box: car:  232   69   55   55
+Inference time:  0.8431820869445801
+Boundary box: car:  272   24   26   26
+Boundary box: car:  187   26   23   23
+Boundary box: car:  54   5   50   50
+Boundary box: car:  130   26   43   43
+Boundary box: car:  233   67   55   55
+Inference time:  1.2153446674346924
+Boundary box: car:  186   25   25   25
+Boundary box: car:  172   18   21   21
+Boundary box: car:  136   37   26   26
+Boundary box: car:  272   24   26   26
+Boundary box: car:  232   67   55   55
+Boundary box: car:  190   63   49   49
+Inference time:  1.1035523414611816
+Boundary box: car:  184   27   24   24
+Boundary box: car:  273   24   24   24
+Boundary box: car:  129   32   36   36
+Boundary box: car:  236   65   54   54
+Inference time:  1.2218375205993652
+Boundary box: car:  275   25   22   22
+Boundary box: car:  185   28   23   23
+Boundary box: car:  127   31   38   38
+Boundary box: car:  234   63   55   55
+Inference time:  1.053332805633545
+Boundary box: car:  184   26   25   25
+Boundary box: car:  270   22   26   26
+Boundary box: car:  126   32   37   37
+Boundary box: car:  235   62   56   56
+Boundary box: pedestrian:  245   76   22   46
+Inference time:  1.0311863422393799
+Boundary box: car:  274   24   23   23
+Boundary box: car:  183   27   25   25
+Boundary box: car:  126   33   36   36
+Boundary box: car:  237   62   52   52
+Boundary box: car:  158   160   70   70
+Inference time:  1.113640308380127
+Boundary box: car:  182   28   24   24
+Boundary box: car:  123   31   39   39
+Boundary box: car:  238   62   51   51
+Inference time:  1.0784080028533936
+Boundary box: car:  171   20   20   20
+Boundary box: car:  180   28   25   25
+Boundary box: car:  122   30   41   41
+Boundary box: car:  239   62   50   50
+Boundary box: car:  144   128   101   101
+Inference time:  1.063570499420166
+Boundary box: car:  181   30   24   24
+Boundary box: car:  171   20   20   20
+Boundary box: car:  120   32   40   40
+Boundary box: car:  200   53   49   49
+Boundary box: car:  238   59   52   52
+Inference time:  1.1654865741729736
+Boundary box: car:  179   29   26   26
+Boundary box: car:  122   42   28   28
+Boundary box: car:  119   31   42   42
+Boundary box: car:  266   44   34   34
+Boundary box: car:  242   58   50   50
+Boundary box: car:  175   150   60   60
+Inference time:  1.2009499073028564
+Boundary box: car:  168   21   21   21
+Boundary box: car:  179   31   24   24
+Boundary box: car:  114   32   43   43
+Boundary box: car:  240   55   53   53
+Boundary box: car:  176   145   63   63
+Inference time:  0.9493813514709473
+Boundary box: car:  168   20   22   22
+Boundary box: car:  178   32   22   22
+Boundary box: car:  114   34   41   41
+Boundary box: car:  218   63   26   26
+Boundary box: car:  244   57   48   48
+Inference time:  1.101210117340088
+Boundary box: car:  177   31   24   24
+Boundary box: car:  113   36   39   39
+Boundary box: car:  240   53   54   54
+Inference time:  1.1343722343444824
+Boundary box: car:  178   32   22   22
+Boundary box: car:  116   44   29   29
+Boundary box: car:  109   29   49   49
+Boundary box: car:  220   63   24   24
+Boundary box: car:  245   54   48   48
+Inference time:  1.1409952640533447
+Boundary box: car:  175   30   27   27
+Boundary box: car:  116   46   26   26
+Boundary box: car:  245   53   48   48
+Boundary box: car:  170   119   80   80
+Inference time:  1.1398460865020752
+Boundary box: car:  108   34   43   43
+Boundary box: car:  272   19   26   26
+Boundary box: car:  222   61   23   23
+Boundary box: car:  247   52   48   48
+Inference time:  1.0264127254486084
+Boundary box: car:  274   20   24   24
+Boundary box: car:  176   35   23   23
+Boundary box: car:  104   35   45   45
+Boundary box: car:  246   50   50   50
+Boundary box: car:  194   126   60   60
+Inference time:  1.0397863388061523
+Boundary box: car:  168   22   21   21
+Boundary box: car:  274   20   22   22
+Boundary box: car:  104   42   36   36
+Boundary box: car:  246   49   50   50
+Boundary box: car:  190   115   74   74
+Inference time:  1.1700918674468994
+Boundary box: car:  103   40   39   39
+Boundary box: car:  99   32   54   54
+Boundary box: car:  244   45   55   55
+Boundary box: car:  198   128   50   50
+Inference time:  0.932215690612793
+Boundary box: car:  172   38   21   21
+Boundary box: car:  101   40   41   41
+Boundary box: car:  237   26   76   76
+Boundary box: car:  250   53   43   43
+Inference time:  1.0009708404541016
+Boundary box: car:  163   21   26   26
+Boundary box: car:  98   40   43   43
+Boundary box: car:  234   28   80   80
+Boundary box: car:  227   55   25   25
+Boundary box: car:  157   2   45   45
+Boundary box: car:  251   50   44   44
+Boundary box: car:  198   113   65   65
+Inference time:  0.9531292915344238
+Boundary box: car:  169   40   20   20
+Boundary box: car:  97   45   37   37
+Boundary box: car:  248   45   51   51
+Boundary box: car:  225   54   24   24
+Boundary box: car:  206   114   57   57
+Inference time:  1.1253714561462402
+Boundary box: car:  96   44   38   38
+Boundary box: car:  230   56   21   21
+Boundary box: car:  255   49   42   42
+Boundary box: car:  211   114   53   53
+Inference time:  1.0129787921905518
+Boundary box: car:  274   20   21   21
+Boundary box: car:  91   41   44   44
+Boundary box: car:  250   46   47   47
+Boundary box: car:  226   50   28   28
+Boundary box: car:  215   115   49   49
+Inference time:  1.13991379737854
+Boundary box: car:  161   23   25   25
+Boundary box: car:  90   40   46   46
+Boundary box: car:  252   45   45   45
+Boundary box: car:  231   52   23   23
+Boundary box: car:  209   105   59   59
+Inference time:  1.0509958267211914
+Boundary box: car:  272   17   24   24
+Boundary box: car:  160   23   26   26
+Boundary box: car:  87   46   41   41
+Boundary box: car:  252   44   46   46
+Boundary box: car:  216   108   50   50
+Inference time:  1.1130642890930176
+Boundary box: car:  160   23   26   26
+Boundary box: car:  255   46   40   40
+Boundary box: car:  84   40   50   50
+Boundary box: car:  230   50   24   24
+Boundary box: car:  88   51   34   34
+Boundary box: car:  216   104   52   52
+Inference time:  1.0050740242004395
+Boundary box: car:  161   42   22   22
+Boundary box: car:  147   30   41   41
+Boundary box: car:  252   42   47   47
+Boundary box: car:  232   50   23   23
+Boundary box: car:  82   43   46   46
+Boundary box: car:  220   104   50   50
+Inference time:  0.9735863208770752
+Boundary box: car:  159   22   30   30
+Boundary box: car:  250   38   51   51
+Boundary box: car:  160   44   21   21
+Boundary box: car:  233   49   22   22
+Boundary box: car:  80   48   43   43
+Boundary box: car:  224   102   50   50
+Inference time:  1.0230631828308105
+Boundary box: car:  158   21   30   30
+Boundary box: car:  252   37   49   49
+Boundary box: car:  161   46   20   20
+Boundary box: car:  234   47   23   23
+Boundary box: car:  79   49   41   41
+Boundary box: car:  225   102   47   47
+Boundary box: pedestrian:  260   40   34   70
+Inference time:  1.0633904933929443
+Boundary box: car:  154   20   32   32
+Boundary box: car:  155   45   23   23
+Boundary box: car:  233   47   23   23
+Boundary box: car:  257   42   42   42
+Boundary box: car:  76   45   47   47
+Boundary box: car:  244   28   63   63
+Boundary box: car:  225   94   52   52
+Inference time:  1.0993435382843018
+Boundary box: car:  154   44   25   25
+Boundary box: car:  249   33   54   54
+Boundary box: car:  236   48   20   20
+Boundary box: car:  77   48   45   45
+Boundary box: car:  227   96   49   49
+Inference time:  1.042966365814209
+Boundary box: car:  252   37   48   48
+Boundary box: car:  236   44   24   24
+Boundary box: car:  77   60   30   30
+Boundary box: car:  227   93   51   51
+Inference time:  1.013340950012207
+Boundary box: car:  258   41   40   40
+Boundary box: car:  148   47   24   24
+Boundary box: car:  68   52   44   44
+Boundary box: car:  232   96   42   42
+Inference time:  1.397108793258667
+Boundary box: car:  148   46   26   26
+Boundary box: car:  262   44   33   33
+Boundary box: car:  63   48   50   50
+Boundary box: car:  230   89   50   50
+Inference time:  1.3023669719696045
+Boundary box: car:  257   38   42   42
+Boundary box: car:  149   49   21   21
+Boundary box: car:  235   91   45   45
+Inference time:  1.3202977180480957
+Boundary box: car:  147   51   22   22
+Boundary box: car:  232   88   47   47
+Inference time:  1.8161230087280273
+Boundary box: car:  240   43   21   21
+Boundary box: car:  145   50   22   22
+Boundary box: car:  234   84   50   50
+Total inferences:  50
+Cars:  242  Bikes:  0  Pedestrian:  3  Bus:  0
+Number of frames:  12000
+Generated classification objects through online XML files
+Inference time:  1.4848413467407227
+Boundary box: car:  193   23   22   22
+Boundary box: car:  145   26   33   33
+Boundary box: car:  260   68   27   27
+Boundary box: car:  253   56   45   45
+Boundary box: car:  224   87   54   54
+Inference time:  0.9986019134521484
+Boundary box: car:  193   23   22   22
+Boundary box: car:  145   26   33   33
+Boundary box: car:  260   68   27   27
+Boundary box: car:  253   56   45   45
+Boundary box: car:  224   87   54   54
+Inference time:  1.0234525203704834
+Boundary box: car:  274   27   27   27
+Boundary box: car:  145   29   30   30
+Boundary box: car:  251   57   43   43
+Boundary box: car:  54   5   50   50
+Boundary box: car:  1   74   26   26
+Boundary box: car:  222   83   57   57
+Inference time:  1.0472259521484375
+Boundary box: car:  273   28   26   26
+Boundary box: car:  145   29   30   30
+Boundary box: car:  54   5   50   50
+Boundary box: car:  254   57   43   43
+Boundary box: car:  1   74   26   26
+Boundary box: car:  174   79   50   50
+Boundary box: car:  221   82   59   59
+Inference time:  1.3827264308929443
+Boundary box: car:  272   28   26   26
+Boundary box: car:  144   31   28   28
+Boundary box: car:  251   55   43   43
+Boundary box: car:  220   77   62   62
+Inference time:  0.9165053367614746
+Boundary box: car:  143   31   28   28
+Boundary box: car:  272   27   27   27
+Boundary box: car:  188   88   30   30
+Boundary box: car:  222   78   60   60
+Boundary box: pedestrian:  234   98   20   39
+Inference time:  1.0326104164123535
+Boundary box: car:  189   23   24   24
+Boundary box: car:  144   34   23   23
+Boundary box: car:  263   62   29   29
+Boundary box: car:  225   78   58   58
+Inference time:  0.9675271511077881
+Boundary box: car:  175   16   21   21
+Boundary box: car:  191   25   22   22
+Boundary box: car:  271   27   26   26
+Boundary box: car:  54   5   50   50
+Boundary box: car:  260   57   36   36
+Boundary box: car:  225   74   59   59
+Inference time:  1.099217176437378
+Boundary box: car:  190   26   22   22
+Boundary box: car:  276   29   20   20
+Boundary box: car:  140   33   28   28
+Boundary box: car:  54   5   50   50
+Boundary box: car:  227   75   56   56
+Inference time:  1.0686087608337402
+Boundary box: car:  188   24   24   24
+Boundary box: car:  274   25   25   25
+Boundary box: car:  138   30   30   30
+Boundary box: car:  54   5   50   50
+Boundary box: car:  255   50   43   43
+Boundary box: car:  228   72   56   56
+Inference time:  1.036064863204956
+Boundary box: car:  188   26   22   22
+Boundary box: car:  272   24   27   27
+Boundary box: car:  138   36   26   26
+Boundary box: car:  54   5   50   50
+Boundary box: car:  256   50   40   40
+Boundary box: car:  228   68   59   59
+Inference time:  1.049259901046753
+Boundary box: car:  187   26   23   23
+Boundary box: car:  272   24   27   27
+Boundary box: car:  134   29   35   35
+Boundary box: car:  54   5   50   50
+Boundary box: car:  265   57   29   29
+Boundary box: car:  232   69   55   55
+Inference time:  0.916234016418457
+Boundary box: car:  272   24   26   26
+Boundary box: car:  187   26   23   23
+Boundary box: car:  54   5   50   50
+Boundary box: car:  130   26   43   43
+Boundary box: car:  233   67   55   55
+Inference time:  0.9205465316772461
+Boundary box: car:  172   18   21   21
+Boundary box: car:  186   25   25   25
+Boundary box: car:  136   37   26   26
+Boundary box: car:  272   24   26   26
+Boundary box: car:  232   67   55   55
+Boundary box: car:  190   63   49   49
+Inference time:  1.0071547031402588
+Boundary box: car:  184   27   24   24
+Boundary box: car:  273   24   24   24
+Boundary box: car:  129   32   36   36
+Boundary box: car:  236   65   54   54
+Inference time:  0.9864363670349121
+Boundary box: car:  275   25   22   22
+Boundary box: car:  185   28   23   23
+Boundary box: car:  127   31   38   38
+Boundary box: car:  234   63   55   55
+Inference time:  1.234093427658081
+Boundary box: car:  184   26   25   25
+Boundary box: car:  270   22   26   26
+Boundary box: car:  126   32   37   37
+Boundary box: car:  235   62   56   56
+Boundary box: pedestrian:  245   76   22   46
+Inference time:  1.216296672821045
+Boundary box: car:  274   24   23   23
+Boundary box: car:  183   27   25   25
+Boundary box: car:  126   33   36   36
+Boundary box: car:  237   62   52   52
+Boundary box: car:  158   160   70   70
+Inference time:  1.01566481590271
+Boundary box: car:  182   28   24   24
+Boundary box: car:  123   31   39   39
+Boundary box: car:  238   62   51   51
+Inference time:  1.1242954730987549
+Boundary box: car:  171   20   20   20
+Boundary box: car:  180   28   25   25
+Boundary box: car:  122   30   41   41
+Boundary box: car:  239   62   50   50
+Boundary box: car:  144   128   101   101
+Inference time:  0.7922532558441162
+Boundary box: car:  171   20   20   20
+Boundary box: car:  181   30   24   24
+Boundary box: car:  120   32   40   40
+Boundary box: car:  200   53   49   49
+Boundary box: car:  238   59   52   52
+Inference time:  0.8416166305541992
+Boundary box: car:  179   29   26   26
+Boundary box: car:  122   42   28   28
+Boundary box: car:  119   31   42   42
+Boundary box: car:  266   44   34   34
+Boundary box: car:  242   58   50   50
+Boundary box: car:  175   150   60   60
+Inference time:  1.0082247257232666
+Boundary box: car:  168   21   21   21
+Boundary box: car:  179   31   24   24
+Boundary box: car:  114   32   43   43
+Boundary box: car:  240   55   53   53
+Boundary box: car:  176   145   63   63
+Inference time:  0.9223923683166504
+Boundary box: car:  168   20   22   22
+Boundary box: car:  178   32   22   22
+Boundary box: car:  114   34   41   41
+Boundary box: car:  218   63   26   26
+Boundary box: car:  244   57   48   48
+Inference time:  1.1010286808013916
+Boundary box: car:  177   31   24   24
+Boundary box: car:  113   36   39   39
+Boundary box: car:  240   53   54   54
+Inference time:  1.029909610748291
+Boundary box: car:  178   32   22   22
+Boundary box: car:  116   44   29   29
+Boundary box: car:  109   29   49   49
+Boundary box: car:  220   63   24   24
+Boundary box: car:  245   54   48   48
+Inference time:  1.0457236766815186
+Boundary box: car:  175   30   27   27
+Boundary box: car:  116   46   26   26
+Boundary box: car:  245   53   48   48
+Boundary box: car:  170   119   80   80
+Inference time:  1.0267736911773682
+Boundary box: car:  272   19   26   26
+Boundary box: car:  222   61   23   23
+Boundary box: car:  108   34   43   43
+Boundary box: car:  247   52   48   48
+Inference time:  0.9592816829681396
+Boundary box: car:  274   20   24   24
+Boundary box: car:  176   35   23   23
+Boundary box: car:  104   35   45   45
+Boundary box: car:  246   50   50   50
+Boundary box: car:  194   126   60   60
+Inference time:  0.9732987880706787
+Boundary box: car:  274   20   22   22
+Boundary box: car:  168   22   21   21
+Boundary box: car:  104   42   36   36
+Boundary box: car:  246   49   50   50
+Boundary box: car:  190   115   74   74
+Inference time:  0.9449484348297119
+Boundary box: car:  103   40   39   39
+Boundary box: car:  99   32   54   54
+Boundary box: car:  244   45   55   55
+Boundary box: car:  198   128   50   50
+Inference time:  0.922330379486084
+Boundary box: car:  172   38   21   21
+Boundary box: car:  101   40   41   41
+Boundary box: car:  237   26   76   76
+Boundary box: car:  250   53   43   43
+Inference time:  1.0904922485351562
+Boundary box: car:  163   21   26   26
+Boundary box: car:  157   2   45   45
+Boundary box: car:  98   40   43   43
+Boundary box: car:  227   55   25   25
+Boundary box: car:  251   50   44   44
+Boundary box: car:  234   28   80   80
+Boundary box: car:  198   113   65   65
+Inference time:  1.0570590496063232
+Boundary box: car:  169   40   20   20
+Boundary box: car:  97   45   37   37
+Boundary box: car:  225   54   24   24
+Boundary box: car:  248   45   51   51
+Boundary box: car:  206   114   57   57
+Inference time:  0.9415655136108398
+Boundary box: car:  96   44   38   38
+Boundary box: car:  230   56   21   21
+Boundary box: car:  255   49   42   42
+Boundary box: car:  211   114   53   53
+Inference time:  0.874875545501709
+Boundary box: car:  274   20   21   21
+Boundary box: car:  91   41   44   44
+Boundary box: car:  250   46   47   47
+Boundary box: car:  226   50   28   28
+Boundary box: car:  215   115   49   49
+Inference time:  1.003262996673584
+Boundary box: car:  161   23   25   25
+Boundary box: car:  90   40   46   46
+Boundary box: car:  252   45   45   45
+Boundary box: car:  231   52   23   23
+Boundary box: car:  209   105   59   59
+Inference time:  0.8992099761962891
+Boundary box: car:  160   23   26   26
+Boundary box: car:  272   17   24   24
+Boundary box: car:  87   46   41   41
+Boundary box: car:  252   44   46   46
+Boundary box: car:  216   108   50   50
+Inference time:  1.0334455966949463
+Boundary box: car:  160   23   26   26
+Boundary box: car:  230   50   24   24
+Boundary box: car:  88   51   34   34
+Boundary box: car:  255   46   40   40
+Boundary box: car:  84   40   50   50
+Boundary box: car:  216   104   52   52
+Inference time:  1.0684430599212646
+Boundary box: car:  161   42   22   22
+Boundary box: car:  147   30   41   41
+Boundary box: car:  252   42   47   47
+Boundary box: car:  232   50   23   23
+Boundary box: car:  82   43   46   46
+Boundary box: car:  220   104   50   50
+Inference time:  0.9263510704040527
+Boundary box: car:  159   22   30   30
+Boundary box: car:  160   44   21   21
+Boundary box: car:  233   49   22   22
+Boundary box: car:  250   38   51   51
+Boundary box: car:  80   48   43   43
+Boundary box: car:  224   102   50   50
+Inference time:  1.0752665996551514
+Boundary box: car:  158   21   30   30
+Boundary box: car:  161   46   20   20
+Boundary box: car:  234   47   23   23
+Boundary box: car:  79   49   41   41
+Boundary box: car:  252   37   49   49
+Boundary box: car:  225   102   47   47
+Boundary box: pedestrian:  260   40   34   70
+Inference time:  0.7991459369659424
+Boundary box: car:  154   20   32   32
+Boundary box: car:  257   42   42   42
+Boundary box: car:  244   28   63   63
+Boundary box: car:  155   45   23   23
+Boundary box: car:  233   47   23   23
+Boundary box: car:  76   45   47   47
+Boundary box: car:  225   94   52   52
+Inference time:  0.9071483612060547
+Boundary box: car:  154   44   25   25
+Boundary box: car:  236   48   20   20
+Boundary box: car:  249   33   54   54
+Boundary box: car:  77   48   45   45
+Boundary box: car:  227   96   49   49
+Inference time:  0.9868941307067871
+Boundary box: car:  252   37   48   48
+Boundary box: car:  236   44   24   24
+Boundary box: car:  77   60   30   30
+Boundary box: car:  227   93   51   51
+Inference time:  0.835003137588501
+Boundary box: car:  258   41   40   40
+Boundary box: car:  148   47   24   24
+Boundary box: car:  68   52   44   44
+Boundary box: car:  232   96   42   42
+Inference time:  0.9357776641845703
+Boundary box: car:  148   46   26   26
+Boundary box: car:  262   44   33   33
+Boundary box: car:  63   48   50   50
+Boundary box: car:  230   89   50   50
+Inference time:  1.089167833328247
+Boundary box: car:  149   49   21   21
+Boundary box: car:  257   38   42   42
+Boundary box: car:  235   91   45   45
+Inference time:  1.0551257133483887
+Boundary box: car:  147   51   22   22
+Boundary box: car:  232   88   47   47
+Inference time:  0.9447572231292725
+Boundary box: car:  240   43   21   21
+Boundary box: car:  145   50   22   22
+Boundary box: car:  234   84   50   50
+Inference time:  0.8445606231689453
+Boundary box: car:  154   32   21   21
+Boundary box: car:  142   49   27   27
+Boundary box: car:  51   54   50   50
+Boundary box: car:  235   84   48   48
+Inference time:  0.9461724758148193
+Boundary box: car:  239   42   20   20
+Boundary box: car:  142   54   21   21
+Boundary box: car:  50   54   50   50
+Boundary box: car:  235   83   46   46
+Inference time:  0.9393641948699951
+Boundary box: car:  153   30   23   23
+Boundary box: car:  139   52   24   24
+Boundary box: car:  240   81   45   45
+Inference time:  0.7528653144836426
+Boundary box: car:  239   39   24   24
+Boundary box: car:  137   52   26   26
+Boundary box: car:  43   60   46   46
+Boundary box: car:  243   81   41   41
+Boundary box: car:  227   71   60   60
+Inference time:  1.0534534454345703
+Boundary box: car:  151   31   23   23
+Boundary box: car:  243   40   21   21
+Boundary box: car:  265   8   28   28
+Boundary box: car:  134   52   28   28
+Boundary box: car:  42   59   48   48
+Boundary box: car:  242   79   44   44
+Inference time:  0.9685888290405273
+Boundary box: car:  266   11   26   26
+Boundary box: car:  52   4   52   52
+Boundary box: car:  132   55   25   25
+Boundary box: car:  38   62   46   46
+Boundary box: car:  237   74   49   49
+Inference time:  1.1765096187591553
+Boundary box: car:  148   31   25   25
+Boundary box: car:  270   40   26   26
+Boundary box: car:  131   55   26   26
+Boundary box: car:  35   63   48   48
+Boundary box: car:  245   79   39   39
+Inference time:  0.8851833343505859
+Boundary box: car:  240   37   22   22
+Boundary box: car:  266   36   30   30
+Boundary box: car:  127   55   28   28
+Boundary box: car:  33   63   48   48
+Boundary box: car:  237   70   51   51
+Boundary box: car:  151   189   50   50
+Inference time:  0.9703018665313721
+Boundary box: car:  267   12   23   23
+Boundary box: car:  146   35   22   22
+Boundary box: car:  236   29   32   32
+Boundary box: car:  126   58   24   24
+Boundary box: car:  29   64   49   49
+Boundary box: car:  241   69   49   49
+Boundary box: car:  144   170   67   67
+Inference time:  0.9246222972869873
+Boundary box: car:  265   9   26   26
+Boundary box: car:  144   32   26   26
+Boundary box: car:  241   34   23   23
+Boundary box: car:  243   70   47   47
+Boundary box: car:  26   66   48   48
+Boundary box: car:  153   174   60   60
+Inference time:  0.9647574424743652
+Boundary box: car:  266   10   24   24
+Boundary box: car:  146   34   23   23
+Boundary box: car:  121   58   28   28
+Boundary box: car:  242   67   50   50
+Boundary box: car:  136   148   88   88
+Inference time:  1.0145776271820068
+Boundary box: car:  244   35   22   22
+Boundary box: car:  256   26   48   48
+Boundary box: car:  254   77   32   32
+Boundary box: car:  18   71   45   45
+Boundary box: car:  241   66   50   50
+Boundary box: car:  145   147   80   80
+Inference time:  0.962517499923706
+Boundary box: car:  188   10   21   21
+Boundary box: car:  143   35   24   24
+Boundary box: car:  242   29   29   29
+Boundary box: car:  120   64   22   22
+Boundary box: car:  245   67   46   46
+Boundary box: car:  11   75   43   43
+Boundary box: car:  165   163   54   54
+Boundary box: car:  149   144   80   80
+Boundary box: pedestrian:  268   27   32   63
+Inference time:  1.0630872249603271
+Boundary box: car:  265   9   26   26
+Boundary box: car:  141   36   24   24
+Boundary box: car:  272   36   27   27
+Boundary box: car:  246   65   45   45
+Boundary box: car:  173   164   47   47
+Boundary box: car:  149   139   81   81
+Inference time:  0.973888635635376
+Boundary box: car:  244   32   22   22
+Boundary box: car:  274   38   23   23
+Boundary box: car:  139   36   26   26
+Boundary box: car:  249   66   43   43
+Boundary box: car:  5   73   51   51
+Boundary box: car:  159   134   82   82
+Inference time:  0.9957897663116455
+Boundary box: car:  264   9   24   24
+Boundary box: car:  244   34   21   21
+Boundary box: car:  136   34   28   28
+Boundary box: car:  9   62   31   31
+Boundary box: car:  246   63   47   47
+Boundary box: car:  146   116   106   106
+Boundary box: pedestrian:  168   138   42   84
+Inference time:  0.952984094619751
+Boundary box: car:  266   11   22   22
+Boundary box: car:  129   26   41   41
+Boundary box: car:  106   67   26   26
+Boundary box: car:  244   57   52   52
+Boundary box: car:  147   114   103   103
+Inference time:  0.923215389251709
+Boundary box: car:  132   34   30   30
+Boundary box: car:  126   25   44   44
+Boundary box: car:  256   64   39   39
+Boundary box: car:  240   56   54   54
+Boundary box: car:  163   121   79   79
+Boundary box: pedestrian:  269   23   32   64
+Inference time:  1.1205461025238037
+Boundary box: car:  245   31   21   21
+Boundary box: car:  130   32   34   34
+Boundary box: car:  248   56   50   50
+Boundary box: car:  98   66   31   31
+Boundary box: car:  259   69   31   31
+Boundary box: car:  169   120   80   80
+Inference time:  1.1011874675750732
+Boundary box: car:  245   31   21   21
+Boundary box: car:  133   38   26   26
+Boundary box: car:  267   9   22   22
+Boundary box: car:  272   33   26   26
+Boundary box: car:  93   64   38   38
+Boundary box: car:  248   57   48   48
+Boundary box: car:  173   122   72   72
+Boundary box: car:  72   186   52   52
+Inference time:  1.1003270149230957
+Boundary box: car:  245   32   21   21
+Boundary box: car:  178   124   65   65
+Boundary box: car:  58   161   74   74
+Inference time:  1.0986580848693848
+Boundary box: car:  262   8   26   26
+Boundary box: car:  129   38   28   28
+Boundary box: car:  119   26   47   47
+Boundary box: car:  254   59   40   40
+Boundary box: car:  91   73   28   28
+Boundary box: car:  175   102   88   88
+Boundary box: car:  70   160   69   69
+Inference time:  1.0054595470428467
+Boundary box: car:  274   34   23   23
+Boundary box: car:  180   7   30   30
+Boundary box: car:  122   30   39   39
+Boundary box: car:  255   58   40   40
+Boundary box: car:  84   68   39   39
+Boundary box: car:  180   110   76   76
+Boundary box: car:  75   157   67   67
+Inference time:  0.9513163566589355
+Boundary box: car:  128   40   27   27
+Boundary box: car:  274   27   32   32
+Boundary box: car:  254   56   43   43
+Boundary box: car:  78   75   30   30
+Boundary box: car:  87   75   31   31
+Boundary box: car:  174   98   90   90
+Boundary box: car:  79   153   67   67
+Boundary box: pedestrian:  192   114   38   76
+Inference time:  1.0516767501831055
+Boundary box: car:  246   30   20   20
+Boundary box: car:  273   28   30   30
+Boundary box: car:  116   28   44   44
+Boundary box: car:  249   50   50   50
+Boundary box: car:  78   72   36   36
+Boundary box: car:  187   113   66   66
+Boundary box: car:  87   152   62   62
+Boundary box: car:  66   119   106   106
+Inference time:  0.9560825824737549
+Boundary box: car:  115   29   44   44
+Boundary box: car:  257   56   39   39
+Boundary box: car:  75   75   35   35
+Boundary box: car:  194   109   63   63
+Boundary box: car:  96   150   57   57
+Inference time:  0.9756453037261963
+Boundary box: car:  265   9   22   22
+Boundary box: car:  274   26   34   34
+Boundary box: car:  256   54   40   40
+Boundary box: car:  114   28   45   45
+Boundary box: car:  68   70   45   45
+Boundary box: car:  93   138   68   68
+Boundary box: car:  196   103   69   69
+Inference time:  1.0237798690795898
+Boundary box: car:  274   32   23   23
+Boundary box: car:  266   16   43   43
+Boundary box: car:  114   29   45   45
+Boundary box: car:  70   80   33   33
+Boundary box: car:  195   100   71   71
+Boundary box: car:  256   53   41   41
+Boundary box: car:  91   124   82   82
+Inference time:  0.8930740356445312
+Boundary box: car:  264   9   22   22
+Boundary box: car:  185   12   23   23
+Boundary box: car:  272   22   35   35
+Boundary box: car:  113   28   45   45
+Boundary box: car:  252   48   49   49
+Boundary box: car:  66   83   30   30
+Boundary box: car:  196   105   63   63
+Boundary box: car:  108   138   59   59
+Inference time:  1.1495888233184814
+Boundary box: car:  186   14   21   21
+Boundary box: car:  261   4   27   27
+Boundary box: car:  271   25   31   31
+Boundary box: car:  106   31   48   48
+Boundary box: car:  253   47   47   47
+Boundary box: car:  204   98   66   66
+Boundary box: car:  208   114   47   47
+Boundary box: car:  112   137   56   56
+Inference time:  1.0990369319915771
+Boundary box: car:  185   13   22   22
+Boundary box: car:  274   28   26   26
+Boundary box: car:  111   33   42   42
+Boundary box: car:  258   10   55   55
+Boundary box: car:  262   53   36   36
+Boundary box: car:  203   100   60   60
+Boundary box: car:  115   132   58   58
+Inference time:  1.3757896423339844
+Boundary box: car:  175   10   21   21
+Boundary box: car:  272   25   30   30
+Boundary box: car:  112   38   38   38
+Boundary box: car:  258   4   28   28
+Boundary box: car:  266   56   30   30
+Boundary box: car:  256   47   44   44
+Boundary box: car:  194   86   76   76
+Boundary box: car:  119   129   56   56
+Boundary box: car:  102   102   92   92
+Inference time:  1.1140193939208984
+Boundary box: car:  274   29   24   24
+Boundary box: car:  106   32   47   47
+Boundary box: car:  256   9   56   56
+Boundary box: car:  255   46   46   46
+Boundary box: car:  47   86   38   38
+Boundary box: car:  200   94   63   63
+Boundary box: car:  121   122   59   59
+Inference time:  1.250458002090454
+Boundary box: car:  263   14   46   46
+Boundary box: car:  100   27   52   52
+Boundary box: car:  114   50   22   22
+Boundary box: car:  270   56   27   27
+Boundary box: car:  258   47   43   43
+Boundary box: car:  41   86   39   39
+Boundary box: car:  123   116   64   64
+Boundary box: car:  202   89   66   66
+Inference time:  1.062685251235962
+Boundary box: car:  175   10   21   21
+Boundary box: car:  183   14   24   24
+Boundary box: car:  267   19   39   39
+Boundary box: car:  99   28   55   55
+Boundary box: car:  111   49   26   26
+Boundary box: car:  264   50   35   35
+Boundary box: car:  38   90   38   38
+Boundary box: car:  201   87   69   69
+Boundary box: car:  128   119   57   57
+Inference time:  1.0015926361083984
+Boundary box: car:  272   26   28   28
+Boundary box: car:  99   31   52   52
+Boundary box: car:  183   16   22   22
+Boundary box: car:  262   13   49   49
+Boundary box: car:  258   45   43   43
+Boundary box: car:  37   97   32   32
+Boundary box: car:  210   88   62   62
+Boundary box: car:  135   118   52   52
+Inference time:  1.141244649887085
+Boundary box: car:  259   5   24   24
+Boundary box: car:  183   16   22   22
+Boundary box: car:  267   18   39   39
+Boundary box: car:  96   31   54   54
+Boundary box: car:  109   50   25   25
+Boundary box: car:  270   53   28   28
+Boundary box: car:  260   46   41   41
+Boundary box: car:  209   85   64   64
+Boundary box: car:  137   113   53   53
+Inference time:  0.9632313251495361
+Boundary box: car:  184   17   22   22
+Boundary box: car:  260   5   24   24
+Boundary box: car:  98   39   43   43
+Boundary box: car:  263   15   42   42
+Boundary box: car:  26   98   36   36
+Boundary box: car:  216   90   54   54
+Boundary box: car:  141   114   51   51
+Inference time:  1.0008807182312012
+Boundary box: car:  183   16   22   22
+Boundary box: car:  270   23   30   30
+Boundary box: car:  94   32   54   54
+Boundary box: car:  180   8   34   34
+Boundary box: car:  262   14   44   44
+Boundary box: car:  272   54   22   22
+Boundary box: car:  209   76   69   69
+Boundary box: car:  139   106   59   59
+Inference time:  0.9322211742401123
+Boundary box: car:  267   19   35   35
+Boundary box: car:  261   7   22   22
+Boundary box: car:  90   36   52   52
+Boundary box: car:  100   49   30   30
+Boundary box: car:  272   49   28   28
+Boundary box: car:  216   83   56   56
+Boundary box: car:  9   101   41   41
+Boundary box: car:  146   107   52   52
+Boundary box: car:  119   72   106   106
+Boundary box: pedestrian:  224   84   33   66
+Inference time:  1.0457239151000977
+Boundary box: car:  183   18   21   21
+Boundary box: car:  259   4   25   25
+Boundary box: car:  270   22   30   30
+Boundary box: car:  272   52   25   25
+Boundary box: car:  258   11   45   45
+Boundary box: car:  6   103   43   43
+Boundary box: car:  222   88   47   47
+Boundary box: car:  147   99   57   57
+Inference time:  1.0709576606750488
+Boundary box: car:  260   5   22   22
+Boundary box: car:  182   19   21   21
+Boundary box: car:  270   21   31   31
+Boundary box: car:  86   34   54   54
+Boundary box: car:  274   52   22   22
+Boundary box: car:  147   98   58   58
+Boundary box: car:  0   104   45   45
+Boundary box: car:  220   82   54   54
+Boundary box: pedestrian:  146   77   58   117
+Inference time:  0.9402875900268555
+Boundary box: car:  260   5   22   22
+Boundary box: car:  181   18   23   23
+Boundary box: car:  273   25   23   23
+Boundary box: car:  265   14   38   38
+Boundary box: car:  96   56   23   23
+Boundary box: car:  155   102   50   50
+Inference time:  1.005537748336792
+Boundary box: car:  180   18   23   23
+Boundary box: car:  260   5   24   24
+Boundary box: car:  264   15   38   38
+Boundary box: car:  88   32   45   45
+Boundary box: car:  272   46   30   30
+Boundary box: car:  228   84   46   46
+Boundary box: car:  158   99   45   45
+Inference time:  0.7827277183532715
+Boundary box: car:  272   24   22   22
+Boundary box: car:  181   19   22   22
+Boundary box: car:  258   10   45   45
+Boundary box: car:  91   56   28   28
+Boundary box: car:  208   56   84   84
+Boundary box: car:  229   82   45   45
+Boundary box: car:  162   98   47   47
+Inference time:  0.993279218673706
+Boundary box: car:  258   5   21   21
+Boundary box: car:  179   18   24   24
+Boundary box: car:  270   22   25   25
+Boundary box: car:  274   48   24   24
+Boundary box: car:  88   56   28   28
+Boundary box: car:  230   80   45   45
+Boundary box: car:  163   97   46   46
+Inference time:  1.0147809982299805
+Boundary box: car:  256   4   23   23
+Boundary box: car:  271   23   24   24
+Boundary box: car:  179   18   24   24
+Boundary box: car:  166   6   41   41
+Boundary box: car:  259   8   49   49
+Boundary box: car:  81   53   36   36
+Boundary box: car:  230   77   47   47
+Boundary box: car:  164   92   50   50
+Boundary box: car:  150   72   76   76
+Boundary box: car:  127   155   84   84
+Inference time:  1.1065988540649414
+Boundary box: car:  257   4   22   22
+Boundary box: car:  166   5   43   43
+Boundary box: car:  74   47   44   44
+Boundary box: car:  234   79   42   42
+Boundary box: car:  168   92   46   46
+Boundary box: car:  129   147   88   88
+Inference time:  1.0307464599609375
+Boundary box: car:  270   21   26   26
+Boundary box: car:  261   9   45   45
+Boundary box: car:  234   75   46   46
+Boundary box: car:  168   87   50   50
+Boundary box: car:  134   145   85   85
+Inference time:  1.1656365394592285
+Boundary box: car:  178   19   22   22
+Boundary box: car:  271   22   25   25
+Boundary box: car:  278   46   22   22
+Boundary box: car:  164   4   45   45
+Boundary box: car:  260   9   45   45
+Boundary box: car:  78   60   30   30
+Boundary box: car:  174   92   41   41
+Boundary box: car:  239   76   42   42
+Boundary box: car:  142   140   81   81
+Inference time:  1.1954562664031982
+Boundary box: car:  260   9   42   42
+Boundary box: car:  235   73   45   45
+Boundary box: car:  174   87   44   44
+Boundary box: car:  156   63   80   80
+Boundary box: car:  147   137   82   82
+Inference time:  0.9919815063476562
+Boundary box: car:  178   20   22   22
+Boundary box: car:  258   5   21   21
+Boundary box: car:  257   7   46   46
+Boundary box: car:  69   56   38   38
+Boundary box: car:  176   84   45   45
+Boundary box: car:  232   64   56   56
+Boundary box: car:  146   132   83   83
+Inference time:  0.8933727741241455
+Boundary box: car:  256   4   22   22
+Boundary box: car:  178   21   22   22
+Boundary box: car:  271   20   24   24
+Boundary box: car:  272   41   30   30
+Boundary box: car:  73   63   28   28
+Boundary box: car:  224   59   63   63
+Boundary box: car:  158   52   88   88
+Boundary box: car:  239   72   42   42
+Boundary box: car:  178   81   47   47
+Boundary box: car:  154   133   79   79
+Inference time:  0.9415440559387207
+Boundary box: car:  256   4   21   21
+Boundary box: car:  176   20   24   24
+Boundary box: car:  70   53   24   24
+Boundary box: car:  71   66   28   28
+Boundary box: car:  238   68   47   47
+Boundary box: car:  179   80   47   47
+Boundary box: car:  157   130   76   76
+Inference time:  0.957679271697998
+Boundary box: car:  268   19   25   25
+Boundary box: car:  254   3   22   22
+Boundary box: car:  174   19   26   26
+Boundary box: car:  260   6   43   43
+Boundary box: car:  59   56   43   43
+Boundary box: car:  181   78   47   47
+Boundary box: car:  237   64   52   52
+Boundary box: car:  160   131   70   70
+Inference time:  0.9181599617004395
+Boundary box: car:  270   20   23   23
+Boundary box: car:  174   19   26   26
+Boundary box: car:  259   8   40   40
+Boundary box: car:  67   57   22   22
+Boundary box: car:  227   56   60   60
+Boundary box: car:  182   76   46   46
+Boundary box: car:  243   68   44   44
+Boundary box: car:  159   123   76   76
+Inference time:  0.9721965789794922
+Boundary box: car:  175   21   24   24
+Boundary box: car:  277   42   23   23
+Boundary box: car:  259   8   40   40
+Boundary box: car:  239   62   50   50
+Boundary box: car:  186   76   44   44
+Boundary box: car:  171   64   63   63
+Boundary box: car:  163   118   77   77
+Boundary box: pedestrian:  182   138   36   73
+Inference time:  1.1843407154083252
+Boundary box: car:  174   20   25   25
+Boundary box: car:  272   35   32   32
+Boundary box: car:  258   6   43   43
+Boundary box: car:  234   56   56   56
+Boundary box: car:  49   46   60   60
+Boundary box: car:  183   71   48   48
+Inference time:  0.7959976196289062
+Boundary box: car:  269   18   26   26
+Boundary box: car:  253   3   21   21
+Boundary box: car:  278   40   23   23
+Boundary box: car:  258   6   43   43
+Boundary box: car:  152   3   52   52
+Boundary box: car:  247   63   44   44
+Boundary box: car:  51   61   44   44
+Boundary box: car:  228   48   66   66
+Boundary box: car:  41   44   66   66
+Boundary box: car:  184   71   48   48
+Boundary box: car:  174   117   68   68
+Inference time:  0.957805871963501
+Boundary box: car:  270   19   21   21
+Boundary box: car:  173   22   23   23
+Boundary box: car:  258   7   42   42
+Boundary box: car:  271   32   35   35
+Boundary box: car:  245   62   44   44
+Boundary box: car:  37   50   57   57
+Boundary box: car:  189   72   44   44
+Boundary box: car:  176   116   69   69
+Inference time:  0.9926109313964844
+Boundary box: car:  270   20   21   21
+Boundary box: car:  171   21   25   25
+Boundary box: car:  278   40   23   23
+Boundary box: car:  258   6   43   43
+Boundary box: car:  38   57   52   52
+Boundary box: car:  239   55   54   54
+Boundary box: car:  190   69   44   44
+Boundary box: car:  183   117   61   61
+Inference time:  0.9688327312469482
+Boundary box: car:  171   23   24   24
+Boundary box: car:  278   39   22   22
+Boundary box: car:  270   16   30   30
+Boundary box: car:  248   60   43   43
+Boundary box: car:  234   48   63   63
+Boundary box: car:  46   73   29   29
+Boundary box: car:  194   72   40   40
+Boundary box: car:  175   106   74   74
+Inference time:  1.0676062107086182
+Boundary box: car:  253   3   21   21
+Boundary box: car:  170   23   25   25
+Boundary box: car:  269   19   21   21
+Boundary box: car:  280   40   21   21
+Boundary box: car:  44   77   27   27
+Boundary box: car:  192   65   45   45
+Boundary box: car:  235   48   60   60
+Boundary box: car:  28   51   63   63
+Boundary box: car:  185   111   62   62
+Inference time:  1.233715295791626
+Boundary box: car:  251   2   22   22
+Boundary box: car:  280   39   21   21
+Boundary box: car:  166   20   29   29
+Boundary box: car:  249   56   47   47
+Boundary box: car:  196   67   42   42
+Boundary box: car:  190   110   58   58
+Boundary box: pedestrian:  242   172   28   55
+Inference time:  1.154480218887329
+Boundary box: car:  270   18   21   21
+Boundary box: car:  168   21   27   27
+Boundary box: car:  277   35   24   24
+Boundary box: car:  246   56   45   45
+Boundary box: car:  196   63   44   44
+Boundary box: car:  36   64   26   26
+Boundary box: car:  31   74   36   36
+Boundary box: car:  180   38   80   80
+Boundary box: car:  190   106   61   61
+Inference time:  0.9478011131286621
+Boundary box: car:  269   18   21   21
+Boundary box: car:  277   36   23   23
+Boundary box: car:  167   22   26   26
+Boundary box: car:  245   54   47   47
+Boundary box: car:  196   63   44   44
+Boundary box: car:  30   78   30   30
+Boundary box: car:  195   103   60   60
+Inference time:  1.0152184963226318
+Boundary box: car:  250   2   21   21
+Boundary box: car:  278   37   22   22
+Boundary box: car:  166   23   26   26
+Boundary box: car:  268   16   23   23
+Boundary box: car:  26   66   28   28
+Boundary box: car:  246   53   47   47
+Boundary box: car:  199   63   43   43
+Boundary box: car:  190   50   63   63
+Boundary box: car:  28   82   28   28
+Boundary box: car:  192   97   67   67
+Boundary box: pedestrian:  243   172   28   55
+Inference time:  0.9155113697052002
+Boundary box: car:  279   36   22   22
+Boundary box: car:  166   23   26   26
+Boundary box: car:  263   11   30   30
+Boundary box: car:  205   66   35   35
+Boundary box: car:  240   45   57   57
+Boundary box: car:  22   80   34   34
+Boundary box: car:  198   100   57   57
+Boundary box: pedestrian:  242   170   30   60
+Inference time:  0.9426593780517578
+Boundary box: car:  165   24   26   26
+Boundary box: car:  265   11   27   27
+Boundary box: car:  259   64   27   27
+Boundary box: car:  202   60   42   42
+Boundary box: car:  248   51   47   47
+Boundary box: car:  200   97   58   58
+Boundary box: car:  10   73   47   47
+Boundary box: pedestrian:  203   57   33   66
+Inference time:  1.0999202728271484
+Boundary box: car:  276   32   27   27
+Boundary box: car:  164   24   27   27
+Boundary box: car:  247   48   50   50
+Boundary box: car:  267   15   23   23
+Boundary box: car:  198   54   49   49
+Boundary box: car:  202   95   57   57
+Boundary box: car:  15   84   31   31
+Boundary box: car:  3   68   56   56
+Boundary box: pedestrian:  205   50   36   73
+Inference time:  1.3040575981140137
+Boundary box: car:  267   16   21   21
+Boundary box: car:  162   24   27   27
+Boundary box: car:  208   62   37   37
+Boundary box: car:  257   57   35   35
+Boundary box: car:  244   42   58   58
+Boundary box: car:  13   89   30   30
+Boundary box: car:  202   94   56   56
+Inference time:  1.2491321563720703
+Boundary box: car:  267   14   21   21
+Boundary box: car:  164   26   25   25
+Boundary box: car:  240   38   62   62
+Boundary box: car:  263   63   24   24
+Boundary box: car:  212   64   31   31
+Boundary box: car:  2   83   39   39
+Boundary box: car:  200   52   50   50
+Boundary box: car:  206   93   54   54
+Inference time:  0.8990275859832764
+Boundary box: car:  250   2   20   20
+Boundary box: car:  162   25   27   27
+Boundary box: car:  263   62   26   26
+Boundary box: car:  206   55   41   41
+Boundary box: car:  254   49   42   42
+Boundary box: car:  241   38   62   62
+Boundary box: car:  8   92   28   28
+Boundary box: car:  207   90   55   55
+Boundary box: bus:  223   96   30   30
+Inference time:  0.8894212245941162
+Boundary box: car:  159   24   29   29
+Boundary box: car:  213   59   35   35
+Boundary box: car:  250   48   45   45
+Boundary box: car:  209   89   54   54
+Boundary box: pedestrian:  244   166   29   58
+Inference time:  0.9670541286468506
+Boundary box: car:  248   1   21   21
+Boundary box: car:  265   14   22   22
+Boundary box: car:  279   32   23   23
+Boundary box: car:  155   20   35   35
+Boundary box: car:  253   48   42   42
+Boundary box: car:  213   58   34   34
+Boundary box: car:  1   99   24   24
+Boundary box: car:  214   90   50   50
+Boundary box: pedestrian:  245   167   29   58
+Inference time:  0.9450149536132812
+Boundary box: car:  278   31   24   24
+Boundary box: car:  158   25   29   29
+Boundary box: car:  244   39   54   54
+Boundary box: car:  261   55   31   31
+Boundary box: car:  147   17   41   41
+Boundary box: car:  211   54   39   39
+Boundary box: car:  215   83   56   56
+Inference time:  0.9968786239624023
+Boundary box: car:  248   1   20   20
+Boundary box: car:  277   30   24   24
+Boundary box: car:  267   14   21   21
+Boundary box: car:  157   27   26   26
+Boundary box: car:  245   36   58   58
+Boundary box: car:  262   55   29   29
+Boundary box: car:  210   52   41   41
+Boundary box: car:  216   83   52   52
+Inference time:  0.9722247123718262
+Boundary box: car:  264   11   23   23
+Boundary box: car:  158   29   24   24
+Boundary box: car:  246   36   56   56
+Boundary box: car:  263   53   30   30
+Boundary box: car:  218   60   28   28
+Boundary box: car:  217   83   51   51
+Inference time:  0.9728808403015137
+Boundary box: car:  155   28   27   27
+Boundary box: car:  280   29   24   24
+Boundary box: car:  174   14   27   27
+Boundary box: car:  254   43   44   44
+Boundary box: car:  212   47   44   44
+Boundary box: car:  221   82   49   49
+Inference time:  1.0926179885864258
+Boundary box: car:  154   28   27   27
+Boundary box: car:  279   31   22   22
+Boundary box: car:  250   34   55   55
+Boundary box: car:  224   61   23   23
+Boundary box: car:  212   59   79   79
+Boundary box: car:  218   79   51   51
+Inference time:  0.7903342247009277
+Boundary box: car:  152   28   27   27
+Boundary box: car:  146   17   43   43
+Boundary box: car:  249   36   52   52
+Boundary box: car:  219   55   32   32
+Boundary box: car:  223   77   51   51
+Inference time:  0.9644203186035156
+Boundary box: car:  149   25   33   33
+Boundary box: car:  269   20   37   37
+Boundary box: car:  246   32   54   54
+Boundary box: car:  226   59   23   23
+Boundary box: car:  212   42   50   50
+Boundary box: car:  221   73   55   55
+Inference time:  0.9607350826263428
+Boundary box: car:  245   0   22   22
+Boundary box: car:  277   29   24   24
+Boundary box: car:  148   25   33   33
+Boundary box: car:  257   41   42   42
+Boundary box: car:  227   58   24   24
+Boundary box: car:  223   72   52   52
+Inference time:  0.8671517372131348
+Boundary box: car:  260   11   24   24
+Boundary box: car:  147   25   34   34
+Boundary box: car:  266   50   28   28
+Boundary box: car:  219   50   34   34
+Boundary box: car:  224   71   52   52
+Inference time:  1.1049060821533203
+Boundary box: car:  262   12   21   21
+Boundary box: car:  147   25   35   35
+Boundary box: car:  254   36   47   47
+Boundary box: car:  226   54   26   26
+Boundary box: car:  228   73   48   48
+Boundary box: car:  213   44   43   43
+Inference time:  0.8946487903594971
+Boundary box: car:  243   0   20   20
+Boundary box: car:  192   10   21   21
+Boundary box: car:  278   30   21   21
+Boundary box: car:  145   27   32   32
+Boundary box: car:  268   50   25   25
+Boundary box: car:  226   67   53   53
+Inference time:  1.0571775436401367
+Boundary box: car:  145   27   33   33
+Boundary box: car:  162   18   28   28
+Boundary box: car:  254   34   50   50
+Boundary box: car:  228   54   24   24
+Boundary box: car:  266   47   29   29
+Boundary box: car:  216   46   38   38
+Boundary box: car:  228   68   50   50
+Inference time:  1.0781512260437012
+Boundary box: car:  279   28   22   22
+Boundary box: car:  145   32   28   28
+Boundary box: car:  227   50   27   27
+Boundary box: car:  228   65   52   52
+Inference time:  0.9319028854370117
+Boundary box: car:  166   22   23   23
+Boundary box: car:  278   26   23   23
+Boundary box: car:  144   32   27   27
+Boundary box: car:  260   12   21   21
+Boundary box: car:  228   50   28   28
+Boundary box: car:  229   64   52   52
+Inference time:  0.9629371166229248
+Boundary box: car:  259   10   23   23
+Boundary box: car:  278   27   21   21
+Boundary box: car:  180   18   23   23
+Boundary box: car:  138   23   42   42
+Boundary box: car:  160   16   32   32
+Boundary box: car:  231   61   53   53
+Inference time:  0.8868637084960938
+Boundary box: car:  179   18   23   23
+Boundary box: car:  276   24   24   24
+Boundary box: car:  138   28   35   35
+Boundary box: car:  233   51   24   24
+Boundary box: car:  234   63   49   49
+Inference time:  1.1951375007629395
+Boundary box: car:  137   28   35   35
+Boundary box: car:  258   8   23   23
+Boundary box: car:  181   19   21   21
+Boundary box: car:  256   32   44   44
+Boundary box: car:  162   18   29   29
+Boundary box: car:  232   50   24   24
+Boundary box: car:  234   63   48   48
+Inference time:  0.9956831932067871
+Boundary box: car:  180   19   21   21
+Boundary box: car:  163   21   24   24
+Boundary box: car:  134   27   39   39
+Boundary box: car:  232   48   26   26
+Boundary box: car:  234   61   49   49
+Inference time:  1.2134051322937012
+Boundary box: car:  257   9   21   21
+Boundary box: car:  180   19   22   22
+Boundary box: car:  163   23   23   23
+Boundary box: car:  132   28   38   38
+Boundary box: car:  234   49   23   23
+Boundary box: car:  237   61   47   47
+Inference time:  0.7500159740447998
+Boundary box: car:  242   0   20   20
+Boundary box: car:  258   10   21   21
+Boundary box: car:  180   19   22   22
+Boundary box: car:  278   25   21   21
+Boundary box: car:  161   22   24   24
+Boundary box: car:  132   31   34   34
+Boundary box: car:  234   54   54   54
+Inference time:  0.8724386692047119
+Boundary box: car:  180   20   22   22
+Boundary box: car:  255   7   24   24
+Boundary box: car:  160   21   26   26
+Boundary box: car:  130   28   39   39
+Boundary box: car:  233   46   25   25
+Boundary box: car:  237   57   48   48
+Inference time:  0.9769420623779297
+Boundary box: car:  255   7   22   22
+Boundary box: car:  181   20   22   22
+Boundary box: car:  161   23   24   24
+Boundary box: car:  127   27   41   41
+Boundary box: car:  238   53   52   52
+Inference time:  0.7696735858917236
+Boundary box: car:  182   21   21   21
+Boundary box: car:  161   23   24   24
+Boundary box: car:  278   24   22   22
+Boundary box: car:  129   34   32   32
+Boundary box: car:  234   42   28   28
+Boundary box: car:  119   24   48   48
+Boundary box: car:  215   20   60   60
+Boundary box: car:  240   56   47   47
+Inference time:  0.9987130165100098
+Boundary box: car:  181   20   22   22
+Boundary box: car:  161   23   24   24
+Boundary box: car:  254   6   23   23
+Boundary box: car:  122   24   47   47
+Boundary box: car:  239   52   51   51
+Inference time:  1.0615499019622803
+Boundary box: car:  254   8   21   21
+Boundary box: car:  180   20   23   23
+Boundary box: car:  161   21   26   26
+Boundary box: car:  277   23   22   22
+Boundary box: car:  124   32   37   37
+Boundary box: car:  240   52   49   49
+Inference time:  1.1451852321624756
+Boundary box: car:  181   21   22   22
+Boundary box: car:  276   23   22   22
+Boundary box: car:  254   8   21   21
+Boundary box: car:  160   23   25   25
+Boundary box: car:  123   32   37   37
+Boundary box: car:  242   50   51   51
+Inference time:  0.9076354503631592
+Boundary box: car:  180   21   23   23
+Boundary box: car:  254   8   21   21
+Boundary box: car:  159   23   26   26
+Boundary box: car:  119   27   45   45
+Boundary box: car:  224   23   51   51
+Boundary box: car:  241   48   52   52
+Inference time:  0.8943459987640381
+Boundary box: car:  179   21   24   24
+Boundary box: car:  160   24   25   25
+Boundary box: car:  252   4   25   25
+Boundary box: car:  149   14   39   39
+Boundary box: car:  233   34   34   34
+Boundary box: car:  117   30   41   41
+Boundary box: car:  240   46   54   54
+Boundary box: car:  52   174   60   60
+Boundary box: pedestrian:  252   149   28   58
+Inference time:  0.972815990447998
+Boundary box: car:  251   4   24   24
+Boundary box: car:  180   20   24   24
+Boundary box: car:  156   22   29   29
+Boundary box: car:  238   39   26   26
+Boundary box: car:  116   33   40   40
+Boundary box: car:  243   49   47   47
+Boundary box: car:  57   161   68   68
+Inference time:  0.8030190467834473
+Boundary box: car:  181   22   22   22
+Boundary box: car:  252   6   22   22
+Boundary box: car:  157   24   25   25
+Boundary box: car:  272   38   24   24
+Boundary box: car:  238   37   28   28
+Boundary box: car:  224   21   51   51
+Boundary box: car:  115   33   40   40
+Boundary box: car:  245   49   46   46
+Boundary box: car:  67   156   66   66
+Inference time:  1.0473997592926025
+Boundary box: car:  251   6   22   22
+Boundary box: car:  180   22   22   22
+Boundary box: car:  158   25   24   24
+Boundary box: car:  112   31   44   44
+Boundary box: car:  227   23   48   48
+Boundary box: car:  244   46   49   49
+Boundary box: car:  68   149   67   67
+Boundary box: pedestrian:  254   148   26   52
+Inference time:  1.0466163158416748
+Boundary box: car:  250   5   24   24
+Boundary box: car:  180   22   22   22
+Boundary box: car:  235   33   33   33
+Boundary box: car:  156   23   27   27
+Boundary box: car:  110   34   41   41
+Boundary box: car:  246   47   46   46
+Boundary box: pedestrian:  254   148   26   52
+Inference time:  1.022460699081421
+Boundary box: car:  181   24   21   21
+Boundary box: car:  155   24   26   26
+Boundary box: car:  248   3   27   27
+Boundary box: car:  110   36   39   39
+Boundary box: car:  229   26   42   42
+Boundary box: car:  245   45   48   48
+Boundary box: car:  91   149   50   50
+Inference time:  1.050926923751831
+Boundary box: car:  180   23   23   23
+Boundary box: car:  249   5   23   23
+Boundary box: car:  155   23   28   28
+Boundary box: car:  107   35   40   40
+Boundary box: car:  246   44   49   49
+Boundary box: car:  78   147   84   84
+Boundary box: pedestrian:  252   146   32   63
+Inference time:  0.8934288024902344
+Boundary box: car:  249   4   23   23
+Boundary box: car:  238   32   32   32
+Boundary box: car:  180   23   24   24
+Boundary box: car:  146   16   41   41
+Boundary box: car:  105   36   42   42
+Boundary box: car:  248   44   46   46
+Boundary box: car:  104   140   50   50
+Boundary box: car:  95   154   66   66
+Inference time:  0.9545657634735107
+Boundary box: car:  248   3   24   24
+Boundary box: car:  179   23   24   24
+Boundary box: car:  239   32   31   31
+Boundary box: car:  150   21   33   33
+Boundary box: car:  103   36   43   43
+Boundary box: car:  249   44   45   45
+Inference time:  0.8904774188995361
+Boundary box: car:  248   4   25   25
+Boundary box: car:  179   23   24   24
+Boundary box: car:  240   32   30   30
+Boundary box: car:  153   28   23   23
+Boundary box: car:  101   37   42   42
+Boundary box: car:  248   42   47   47
+Boundary box: car:  105   143   66   66
+Inference time:  0.9479374885559082
+Boundary box: car:  247   3   23   23
+Boundary box: car:  179   22   26   26
+Boundary box: car:  152   27   25   25
+Boundary box: car:  99   37   43   43
+Boundary box: car:  250   43   44   44
+Boundary box: car:  110   120   57   57
+Inference time:  1.040895938873291
+Boundary box: car:  179   23   25   25
+Boundary box: car:  152   27   25   25
+Boundary box: car:  239   28   33   33
+Boundary box: car:  251   41   46   46
+Boundary box: car:  97   38   43   43
+Boundary box: car:  248   3   22   22
+Boundary box: car:  120   120   51   51
+Boundary box: car:  82   104   112   112
+Inference time:  1.0640602111816406
+Boundary box: car:  178   23   25   25
+Boundary box: car:  152   30   23   23
+Boundary box: car:  240   29   30   30
+Boundary box: car:  245   3   22   22
+Boundary box: car:  97   38   42   42
+Boundary box: car:  250   40   46   46
+Boundary box: car:  90   103   106   106
+Inference time:  1.102116346359253
+Boundary box: car:  245   3   24   24
+Boundary box: car:  179   24   24   24
+Boundary box: car:  151   29   25   25
+Boundary box: car:  242   31   28   28
+Boundary box: car:  252   41   43   43
+Boundary box: car:  92   37   47   47
+Boundary box: car:  129   113   49   49
+Inference time:  0.8933310508728027
+Boundary box: car:  245   3   23   23
+Boundary box: car:  178   24   24   24
+Boundary box: car:  150   26   27   27
+Boundary box: car:  140   18   41   41
+Boundary box: car:  252   38   45   45
+Boundary box: car:  92   41   42   42
+Boundary box: car:  89   28   58   58
+Boundary box: car:  130   127   58   58
+Boundary box: car:  130   110   50   50
+Inference time:  1.0472424030303955
+Boundary box: car:  243   2   23   23
+Boundary box: car:  179   25   23   23
+Boundary box: car:  150   30   23   23
+Boundary box: car:  242   30   29   29
+Boundary box: car:  254   39   43   43
+Boundary box: car:  88   39   47   47
+Boundary box: car:  140   18   41   41
+Boundary box: car:  134   119   63   63
+Inference time:  0.9025290012359619
+Boundary box: car:  244   2   21   21
+Boundary box: car:  245   31   25   25
+Boundary box: car:  178   25   24   24
+Boundary box: car:  146   26   30   30
+Boundary box: car:  178   15   23   23
+Boundary box: car:  256   40   40   40
+Boundary box: car:  85   36   51   51
+Boundary box: car:  138   103   50   50
+Inference time:  0.9223089218139648
+Boundary box: car:  241   1   23   23
+Boundary box: car:  177   25   25   25
+Boundary box: car:  147   31   23   23
+Boundary box: car:  253   37   44   44
+Boundary box: car:  91   53   28   28
+Boundary box: car:  141   115   57   57
+Inference time:  1.2206408977508545
+Boundary box: car:  242   2   24   24
+Boundary box: car:  193   22   20   20
+Boundary box: car:  177   25   25   25
+Boundary box: car:  144   28   30   30
+Boundary box: car:  254   36   43   43
+Boundary box: car:  81   40   48   48
+Boundary box: car:  141   108   61   61
+Inference time:  1.1341030597686768
+Boundary box: car:  242   2   22   22
+Boundary box: car:  192   21   21   21
+Boundary box: car:  176   25   26   26
+Boundary box: car:  144   28   29   29
+Boundary box: car:  247   32   22   22
+Boundary box: car:  254   38   40   40
+Boundary box: car:  77   41   47   47
+Boundary box: car:  147   109   57   57
+Inference time:  1.102771520614624
+Boundary box: car:  241   2   23   23
+Boundary box: car:  175   26   26   26
+Boundary box: car:  143   30   27   27
+Boundary box: car:  129   15   49   49
+Boundary box: car:  253   36   42   42
+Boundary box: car:  81   46   41   41
+Boundary box: car:  141   98   69   69
+Inference time:  1.0681188106536865
+Boundary box: car:  241   2   22   22
+Boundary box: car:  192   23   21   21
+Boundary box: car:  246   31   23   23
+Boundary box: car:  175   26   26   26
+Boundary box: car:  139   25   34   34
+Boundary box: car:  78   49   40   40
+Boundary box: car:  66   28   69   69
+Inference time:  0.9290187358856201
+Boundary box: car:  240   2   22   22
+Boundary box: car:  192   22   21   21
+Boundary box: car:  174   26   26   26
+Boundary box: car:  248   33   20   20
+Boundary box: car:  254   34   43   43
+Boundary box: car:  76   49   41   41
+Boundary box: car:  143   88   76   76
+Inference time:  1.0048742294311523
+Boundary box: car:  239   2   21   21
+Boundary box: car:  192   23   21   21
+Boundary box: car:  176   28   23   23
+Boundary box: car:  140   32   26   26
+Boundary box: car:  249   31   22   22
+Boundary box: car:  253   33   43   43
+Boundary box: car:  68   36   61   61
+Boundary box: car:  72   49   42   42
+Boundary box: car:  166   102   50   50
+Inference time:  0.9837470054626465
+Boundary box: car:  238   0   24   24
+Boundary box: car:  174   28   25   25
+Boundary box: car:  141   34   22   22
+Boundary box: car:  266   44   25   25
+Boundary box: car:  135   28   34   34
+Boundary box: car:  255   33   43   43
+Boundary box: car:  124   14   54   54
+Boundary box: car:  70   48   44   44
+Inference time:  1.0040855407714844
+Boundary box: car:  247   28   24   24
+Boundary box: car:  173   29   25   25
+Boundary box: car:  139   32   27   27
+Boundary box: car:  238   1   24   24
+Boundary box: car:  266   41   27   27
+Boundary box: car:  257   34   39   39
+Boundary box: car:  127   20   45   45
+Boundary box: car:  69   53   40   40
+Boundary box: car:  144   72   88   88
+Inference time:  0.9851546287536621
+Boundary box: car:  237   2   22   22
+Boundary box: car:  247   31   22   22
+Boundary box: car:  171   26   29   29
+Boundary box: car:  138   32   28   28
+Boundary box: car:  127   19   47   47
+Boundary box: car:  256   33   40   40
+Boundary box: car:  67   51   43   43
+Boundary box: car:  160   85   63   63
+Boundary box: car:  158   175   63   63
+Inference time:  1.0219109058380127
+Boundary box: car:  247   29   23   23
+Boundary box: car:  171   28   27   27
+Boundary box: car:  132   27   35   35
+Boundary box: car:  258   31   42   42
+Boundary box: car:  169   89   54   54
+Boundary box: car:  165   172   57   57
+Inference time:  1.1196494102478027
+Boundary box: car:  238   1   22   22
+Boundary box: car:  190   25   21   21
+Boundary box: car:  248   29   22   22
+Boundary box: car:  170   28   27   27
+Boundary box: car:  129   26   38   38
+Boundary box: car:  260   34   35   35
+Boundary box: car:  156   14   49   49
+Boundary box: car:  57   55   40   40
+Boundary box: car:  164   164   64   64
+Inference time:  0.8361635208129883
+Boundary box: car:  169   29   27   27
+Boundary box: car:  258   32   38   38
+Boundary box: car:  157   14   49   49
+Boundary box: car:  126   25   42   42
+Boundary box: car:  169   80   58   58
+Boundary box: car:  170   162   59   59
+Inference time:  0.9913294315338135
+Boundary box: car:  236   1   21   21
+Boundary box: car:  248   29   21   21
+Boundary box: car:  169   29   27   27
+Boundary box: car:  128   29   36   36
+Boundary box: car:  264   36   30   30
+Boundary box: car:  55   15   42   42
+Boundary box: car:  157   16   47   47
+Boundary box: car:  55   55   43   43
+Boundary box: car:  175   81   54   54
+Boundary box: car:  173   155   61   61
+Inference time:  1.0056681632995605
+Boundary box: car:  234   1   21   21
+Boundary box: car:  171   31   25   25
+Boundary box: car:  124   25   41   41
+Boundary box: car:  260   32   37   37
+Boundary box: car:  158   18   45   45
+Boundary box: car:  44   54   48   48
+Boundary box: car:  170   73   62   62
+Boundary box: car:  180   156   54   54
+Inference time:  0.8575644493103027
+Boundary box: car:  190   26   22   22
+Boundary box: car:  250   28   21   21
+Boundary box: car:  170   30   26   26
+Boundary box: car:  125   26   40   40
+Boundary box: car:  264   34   32   32
+Boundary box: car:  47   57   44   44
+Boundary box: car:  182   78   51   51
+Boundary box: car:  177   145   64   64
+Inference time:  1.1211531162261963
+Boundary box: car:  234   1   21   21
+Boundary box: car:  187   25   23   23
+Boundary box: car:  170   32   23   23
+Boundary box: car:  124   28   38   38
+Boundary box: car:  265   34   31   31
+Boundary box: car:  154   17   47   47
+Boundary box: car:  38   54   51   51
+Boundary box: car:  173   67   66   66
+Boundary box: car:  185   146   56   56
+Inference time:  1.1011950969696045
+Boundary box: car:  233   1   21   21
+Boundary box: car:  188   26   22   22
+Boundary box: car:  267   35   29   29
+Boundary box: car:  164   27   32   32
+Boundary box: car:  123   29   38   38
+Boundary box: car:  53   14   45   45
+Boundary box: car:  41   59   45   45
+Boundary box: car:  185   75   52   52
+Boundary box: car:  186   143   55   55
+Inference time:  1.0449764728546143
+Boundary box: car:  163   27   34   34
+Boundary box: car:  188   26   22   22
+Boundary box: car:  264   33   32   32
+Boundary box: car:  121   27   41   41
+Boundary box: car:  38   60   47   47
+Boundary box: car:  32   41   71   71
+Boundary box: car:  187   136   58   58
+Inference time:  0.89980149269104
+Boundary box: car:  187   26   22   22
+Boundary box: car:  163   29   31   31
+Boundary box: car:  267   35   27   27
+Boundary box: car:  120   28   41   41
+Boundary box: car:  32   53   56   56
+Boundary box: car:  188   72   50   50
+Boundary box: car:  187   131   61   61
+Inference time:  0.9133672714233398
+Boundary box: car:  187   28   22   22
+Boundary box: car:  270   36   24   24
+Boundary box: car:  162   29   32   32
+Boundary box: car:  117   27   43   43
+Boundary box: car:  32   63   46   46
+Boundary box: car:  186   66   55   55
+Boundary box: car:  193   129   59   59
+Inference time:  1.0115869045257568
+Boundary box: car:  186   28   23   23
+Boundary box: car:  269   35   26   26
+Boundary box: car:  117   30   40   40
+Boundary box: car:  159   28   35   35
+Boundary box: car:  29   61   51   51
+Boundary box: car:  191   68   49   49
+Boundary box: car:  198   130   52   52
+Boundary box: car:  185   112   80   80
+Inference time:  0.9961259365081787
+Boundary box: car:  250   25   21   21
+Boundary box: car:  184   28   22   22
+Boundary box: car:  271   37   23   23
+Boundary box: car:  157   27   36   36
+Boundary box: car:  118   31   39   39
+Boundary box: car:  264   28   37   37
+Boundary box: car:  20   45   72   72
+Boundary box: car:  28   72   33   33
+Boundary box: car:  196   70   45   45
+Boundary box: car:  196   122   59   59
+Inference time:  0.9610140323638916
+Boundary box: car:  184   28   22   22
+Boundary box: car:  159   30   33   33
+Boundary box: car:  264   30   32   32
+Boundary box: car:  114   27   46   46
+Boundary box: car:  21   65   49   49
+Boundary box: car:  195   65   48   48
+Boundary box: car:  204   127   48   48
+Inference time:  1.0157685279846191
+Boundary box: car:  182   28   24   24
+Boundary box: car:  159   31   33   33
+Boundary box: car:  113   29   44   44
+Boundary box: car:  266   29   32   32
+Boundary box: car:  200   66   43   43
+Boundary box: car:  21   68   46   46
+Boundary box: car:  208   124   45   45
+Inference time:  1.045915126800537
+Boundary box: car:  191   8   21   21
+Boundary box: car:  183   28   25   25
+Boundary box: car:  272   34   22   22
+Boundary box: car:  158   32   32   32
+Boundary box: car:  112   31   42   42
+Boundary box: car:  196   60   51   51
+Boundary box: car:  14   69   49   49
+Boundary box: car:  209   121   46   46
+Inference time:  0.8983559608459473
+Boundary box: car:  174   8   21   21
+Boundary box: car:  180   29   24   24
+Boundary box: car:  270   33   24   24
+Boundary box: car:  153   27   39   39
+Boundary box: car:  111   31   42   42
+Boundary box: car:  206   64   42   42
+Boundary box: car:  190   50   63   63
+Boundary box: car:  11   71   46   46
+Boundary box: car:  204   109   60   60
+Inference time:  0.9880669116973877
+Boundary box: car:  181   30   22   22
+Boundary box: car:  273   35   22   22
+Boundary box: car:  154   30   37   37
+Boundary box: car:  266   29   30   30
+Boundary box: car:  110   32   41   41
+Boundary box: car:  206   62   43   43
+Boundary box: car:  6   73   47   47
+Boundary box: car:  193   47   63   63
+Boundary box: car:  208   112   52   52
+Inference time:  0.9725120067596436
+Boundary box: car:  181   30   22   22
+Boundary box: car:  250   22   22   22
+Boundary box: car:  156   34   30   30
+Boundary box: car:  267   29   30   30
+Boundary box: car:  108   32   43   43
+Boundary box: car:  3   73   47   47
+Boundary box: car:  210   106   57   57
+Inference time:  0.9102563858032227
+Boundary box: car:  180   30   24   24
+Boundary box: car:  274   34   21   21
+Boundary box: car:  153   32   34   34
+Boundary box: car:  105   31   45   45
+Boundary box: car:  208   57   45   45
+Boundary box: car:  1   78   43   43
+Boundary box: car:  210   103   57   57
+Inference time:  1.120743751525879
+Boundary box: car:  156   25   25   25
+Boundary box: car:  272   32   22   22
+Boundary box: car:  178   30   25   25
+Boundary box: car:  153   34   33   33
+Boundary box: car:  103   31   47   47
+Boundary box: car:  208   57   46   46
+Boundary box: car:  8   78   43   43
+Boundary box: car:  217   106   50   50
+Inference time:  0.9973654747009277
+Boundary box: car:  268   29   28   28
+Boundary box: car:  176   29   26   26
+Boundary box: car:  150   31   37   37
+Boundary box: car:  104   33   45   45
+Boundary box: car:  210   57   43   43
+Boundary box: car:  217   102   50   50
+Inference time:  1.1983435153961182
+Boundary box: car:  178   32   23   23
+Boundary box: car:  269   30   25   25
+Boundary box: car:  194   20   23   23
+Boundary box: car:  152   36   32   32
+Boundary box: car:  103   34   43   43
+Boundary box: car:  218   99   50   50
+Inference time:  0.7953758239746094
+Boundary box: car:  194   9   21   21
+Boundary box: car:  176   32   23   23
+Boundary box: car:  268   28   27   27
+Boundary box: car:  150   35   34   34
+Boundary box: car:  100   35   42   42
+Boundary box: car:  210   54   45   45
+Boundary box: car:  223   101   44   44
+Inference time:  0.8752460479736328
+Boundary box: car:  194   23   21   21
+Boundary box: car:  272   31   23   23
+Boundary box: car:  176   32   24   24
+Boundary box: car:  153   40   27   27
+Boundary box: car:  98   34   45   45
+Boundary box: car:  272   26   32   32
+Boundary box: car:  212   52   46   46
+Boundary box: car:  139   26   48   48
+Boundary box: car:  226   100   41   41
+Inference time:  0.9907674789428711
+Boundary box: car:  195   8   22   22
+Boundary box: car:  193   23   21   21
+Boundary box: car:  273   31   21   21
+Boundary box: car:  175   34   22   22
+Boundary box: car:  143   33   39   39
+Boundary box: car:  97   34   46   46
+Boundary box: car:  209   50   47   47
+Boundary box: car:  221   89   54   54
+Inference time:  0.997063398361206
+Boundary box: car:  272   29   23   23
+Boundary box: car:  174   34   24   24
+Boundary box: car:  146   38   33   33
+Boundary box: car:  95   36   44   44
+Boundary box: car:  211   47   50   50
+Boundary box: car:  227   93   44   44
+Inference time:  0.9492990970611572
+Boundary box: car:  195   9   21   21
+Boundary box: car:  192   25   21   21
+Boundary box: car:  273   29   24   24
+Boundary box: car:  173   34   24   24
+Boundary box: car:  146   37   34   34
+Boundary box: car:  94   36   45   45
+Boundary box: car:  208   45   52   52
+Boundary box: car:  227   91   46   46
+Inference time:  1.0367419719696045
+Boundary box: car:  192   25   21   21
+Boundary box: car:  272   29   23   23
+Boundary box: car:  171   32   26   26
+Boundary box: car:  148   42   28   28
+Boundary box: car:  93   39   42   42
+Boundary box: car:  204   40   57   57
+Boundary box: car:  228   88   46   46
+Inference time:  1.1313669681549072
+Boundary box: car:  196   10   21   21
+Boundary box: car:  192   25   21   21
+Boundary box: car:  171   35   24   24
+Boundary box: car:  171   25   24   24
+Boundary box: car:  270   27   27   27
+Boundary box: car:  141   38   35   35
+Boundary box: car:  90   40   42   42
+Boundary box: car:  215   43   48   48
+Boundary box: car:  229   85   48   48
+Inference time:  0.926354169845581
+Boundary box: car:  192   25   22   22
+Boundary box: car:  170   35   24   24
+Boundary box: car:  141   38   36   36
+Boundary box: car:  88   38   46   46
+Boundary box: car:  232   57   27   27
+Boundary box: car:  217   44   47   47
+Boundary box: car:  229   82   51   51
+Inference time:  0.7575027942657471
+Boundary box: car:  190   25   22   22
+Boundary box: car:  169   35   25   25
+Boundary box: car:  272   23   30   30
+Boundary box: car:  141   41   33   33
+Boundary box: car:  86   38   46   46
+Boundary box: car:  217   43   45   45
+Boundary box: car:  233   83   45   45
+Inference time:  0.900754451751709
+Boundary box: car:  272   26   23   23
+Boundary box: car:  166   34   28   28
+Boundary box: car:  272   23   30   30
+Boundary box: car:  140   40   34   34
+Boundary box: car:  84   41   44   44
+Boundary box: car:  227   74   58   58
+Inference time:  1.0052461624145508
+Boundary box: car:  165   35   26   26
+Boundary box: car:  188   24   25   25
+Boundary box: car:  272   23   30   30
+Boundary box: car:  137   39   37   37
+Boundary box: car:  83   39   46   46
+Boundary box: car:  220   41   45   45
+Boundary box: car:  229   54   27   27
+Boundary box: car:  228   72   56   56
+Inference time:  0.9513905048370361
+Boundary box: car:  190   25   22   22
+Boundary box: car:  166   38   24   24
+Boundary box: car:  272   25   23   23
+Boundary box: car:  137   40   36   36
+Boundary box: car:  196   12   21   21
+Boundary box: car:  80   36   52   52
+Boundary box: car:  229   73   54   54
+Inference time:  1.0390856266021729
+Boundary box: car:  195   11   22   22
+Boundary box: car:  164   37   26   26
+Boundary box: car:  183   21   29   29
+Boundary box: car:  271   24   28   28
+Boundary box: car:  137   43   34   34
+Boundary box: car:  224   43   40   40
+Boundary box: car:  80   41   46   46
+Boundary box: car:  119   22   69   69
+Boundary box: car:  240   81   37   37
+Inference time:  1.009089469909668
+Boundary box: car:  271   25   25   25
+Boundary box: car:  163   38   26   26
+Boundary box: car:  136   44   34   34
+Boundary box: car:  78   42   46   46
+Boundary box: car:  118   23   67   67
+Boundary box: car:  230   50   28   28
+Boundary box: car:  240   76   42   42
+Inference time:  1.186668872833252
+Boundary box: car:  186   25   24   24
+Boundary box: car:  272   24   23   23
+Boundary box: car:  160   36   29   29
+Boundary box: car:  132   42   37   37
+Boundary box: car:  77   45   43   43
+Boundary box: car:  64   20   80   80
+Boundary box: car:  234   45   32   32
+Boundary box: car:  235   69   51   51
+Inference time:  0.7490403652191162
+Boundary box: car:  270   24   23   23
+Boundary box: car:  160   38   26   26
+Boundary box: car:  196   10   23   23
+Boundary box: car:  129   41   40   40
+Boundary box: car:  222   35   47   47
+Boundary box: car:  73   40   50   50
+Boundary box: car:  242   73   42   42
+Inference time:  0.9361183643341064
+Boundary box: car:  184   26   25   25
+Boundary box: car:  271   25   23   23
+Boundary box: car:  160   40   26   26
+Boundary box: car:  128   44   38   38
+Boundary box: car:  70   41   51   51
+Boundary box: car:  242   70   44   44
+Inference time:  0.9896306991577148
+Boundary box: car:  184   26   26   26
+Boundary box: car:  158   39   28   28
+Boundary box: car:  128   46   35   35
+Boundary box: car:  193   12   24   24
+Boundary box: car:  70   44   48   48
+Boundary box: car:  245   72   39   39
+Inference time:  1.0257244110107422
+Boundary box: car:  272   23   22   22
+Boundary box: car:  185   28   23   23
+Boundary box: car:  156   38   29   29
+Boundary box: car:  227   36   43   43
+Boundary box: car:  124   44   40   40
+Boundary box: car:  64   39   55   55
+Boundary box: car:  244   68   42   42
+Inference time:  1.1643340587615967
+Boundary box: car:  270   22   26   26
+Boundary box: car:  182   29   24   24
+Boundary box: car:  196   14   21   21
+Boundary box: car:  156   41   26   26
+Boundary box: car:  120   44   41   41
+Boundary box: car:  65   40   55   55
+Boundary box: car:  246   68   41   41
+Inference time:  1.2788288593292236
+Boundary box: car:  196   14   21   21
+Boundary box: car:  183   29   24   24
+Boundary box: car:  128   36   28   28
+Boundary box: car:  152   42   28   28
+Boundary box: car:  237   46   26   26
+Boundary box: car:  120   46   40   40
+Boundary box: car:  61   39   57   57
+Boundary box: car:  243   64   46   46
+Inference time:  1.0008611679077148
+Boundary box: car:  272   23   22   22
+Boundary box: car:  182   29   25   25
+Boundary box: car:  152   42   28   28
+Boundary box: car:  121   48   37   37
+Boundary box: car:  59   40   57   57
+Boundary box: car:  244   62   46   46
+Boundary box: car:  254   73   29   29
+Inference time:  1.1296496391296387
+Boundary box: car:  193   13   24   24
+Boundary box: car:  271   22   22   22
+Boundary box: car:  184   31   22   22
+Boundary box: car:  150   41   29   29
+Boundary box: car:  230   29   44   44
+Boundary box: car:  116   44   45   45
+Boundary box: car:  57   43   54   54
+Boundary box: car:  250   66   38   38
+Inference time:  0.8544139862060547
+Boundary box: car:  271   21   24   24
+Boundary box: car:  177   29   27   27
+Boundary box: car:  195   15   22   22
+Boundary box: car:  148   40   30   30
+Boundary box: car:  54   46   51   51
+Boundary box: car:  245   44   23   23
+Boundary box: car:  118   47   41   41
+Boundary box: car:  255   70   29   29
+Boundary box: car:  247   61   44   44
+Inference time:  0.9609270095825195
+Boundary box: car:  271   20   24   24
+Boundary box: car:  179   30   25   25
+Boundary box: car:  232   30   41   41
+Boundary box: car:  193   14   24   24
+Boundary box: car:  53   40   62   62
+Boundary box: car:  250   61   42   42
+Boundary box: car:  113   46   45   45
+Inference time:  0.9495847225189209
+Boundary box: car:  150   37   22   22
+Boundary box: car:  179   31   24   24
+Boundary box: car:  241   31   24   24
+Boundary box: car:  240   39   28   28
+Boundary box: car:  146   43   30   30
+Boundary box: car:  195   15   23   23
+Boundary box: car:  270   20   23   23
+Boundary box: car:  252   62   38   38
+Boundary box: car:  113   50   39   39
+Boundary box: car:  45   46   57   57
+Inference time:  0.9246091842651367
+Boundary box: car:  179   32   24   24
+Boundary box: car:  270   20   23   23
+Boundary box: car:  144   45   28   28
+Boundary box: car:  232   30   41   41
+Boundary box: car:  92   33   66   66
+Boundary box: car:  108   49   42   42
+Boundary box: car:  248   57   46   46
+Boundary box: car:  48   48   53   53
+Inference time:  0.930396556854248
+Boundary box: car:  194   15   24   24
+Boundary box: car:  268   18   26   26
+Boundary box: car:  143   46   27   27
+Boundary box: car:  232   25   47   47
+Boundary box: car:  255   62   35   35
+Boundary box: car:  45   53   47   47
+Boundary box: car:  104   47   47   47
+Inference time:  1.0234029293060303
+Boundary box: car:  194   15   24   24
+Boundary box: car:  269   19   24   24
+Boundary box: car:  113   40   34   34
+Boundary box: car:  233   27   43   43
+Boundary box: car:  106   51   42   42
+Boundary box: car:  39   50   54   54
+Boundary box: car:  250   55   44   44
+Inference time:  1.0613534450531006
+Boundary box: car:  174   33   25   25
+Boundary box: car:  192   12   28   28
+Boundary box: car:  238   33   34   34
+Boundary box: car:  141   46   30   30
+Boundary box: car:  254   58   38   38
+Boundary box: car:  104   50   43   43
+Boundary box: car:  40   51   53   53
+Inference time:  1.0375311374664307
+Boundary box: car:  270   20   21   21
+Boundary box: car:  175   33   24   24
+Boundary box: car:  143   40   23   23
+Boundary box: car:  244   39   24   24
+Boundary box: car:  195   18   23   23
+Boundary box: car:  170   10   28   28
+Boundary box: car:  138   47   29   29
+Boundary box: car:  39   56   48   48
+Boundary box: car:  250   53   45   45
+Inference time:  0.7968440055847168
+Boundary box: car:  194   17   23   23
+Boundary box: car:  156   31   22   22
+Boundary box: car:  267   17   25   25
+Boundary box: car:  175   34   23   23
+Boundary box: car:  240   33   32   32
+Boundary box: car:  184   6   41   41
+Boundary box: car:  34   53   52   52
+Boundary box: car:  137   51   27   27
+Boundary box: car:  255   56   38   38
+Boundary box: car:  98   52   46   46
+Inference time:  0.9994831085205078
+Boundary box: car:  267   17   23   23
+Boundary box: car:  194   18   22   22
+Boundary box: car:  174   37   22   22
+Boundary box: car:  172   30   30   30
+Boundary box: car:  236   27   40   40
+Boundary box: car:  138   52   26   26
+Boundary box: car:  258   56   36   36
+Boundary box: car:  101   60   34   34
+Boundary box: car:  31   52   57   57
+Inference time:  0.911980390548706
+Boundary box: car:  267   17   24   24
+Boundary box: car:  192   18   23   23
+Boundary box: car:  171   36   24   24
+Boundary box: car:  239   28   36   36
+Boundary box: car:  132   45   36   36
+Boundary box: car:  96   57   40   40
+Boundary box: car:  254   51   42   42
+Boundary box: car:  30   54   54   54
+Inference time:  0.8244221210479736
+Boundary box: car:  267   17   24   24
+Boundary box: car:  192   17   25   25
+Boundary box: car:  171   36   25   25
+Boundary box: car:  245   36   25   25
+Boundary box: car:  240   28   35   35
+Boundary box: car:  133   53   27   27
+Boundary box: car:  130   46   35   35
+Boundary box: car:  91   56   44   44
+Boundary box: car:  30   59   48   48
+Inference time:  0.9629034996032715
+Boundary box: car:  191   15   28   28
+Boundary box: car:  243   36   25   25
+Boundary box: car:  168   36   25   25
+Boundary box: car:  238   26   38   38
+Boundary box: car:  260   54   34   34
+Boundary box: car:  133   53   28   28
+Boundary box: car:  91   60   42   42
+Boundary box: car:  20   45   69   69
+Inference time:  1.0272018909454346
+Boundary box: car:  267   18   21   21
+Boundary box: car:  169   38   24   24
+Boundary box: car:  191   20   23   23
+Boundary box: car:  242   30   32   32
+Boundary box: car:  90   60   42   42
+Boundary box: car:  26   68   39   39
+Inference time:  1.1677896976470947
+Boundary box: car:  267   18   21   21
+Boundary box: car:  192   19   24   24
+Boundary box: car:  168   38   24   24
+Boundary box: car:  243   29   31   31
+Boundary box: car:  184   10   37   37
+Boundary box: car:  266   58   23   23
+Boundary box: car:  128   56   27   27
+Boundary box: car:  256   47   43   43
+Boundary box: car:  84   58   47   47
+Boundary box: car:  16   51   62   62
+Inference time:  0.839036226272583
+Boundary box: car:  193   20   23   23
+Boundary box: car:  246   32   25   25
+Boundary box: car:  166   38   26   26
+Boundary box: car:  121   51   33   33
+Boundary box: car:  262   51   34   34
+Boundary box: car:  82   59   47   47
+Inference time:  0.9947717189788818
+Boundary box: car:  195   21   21   21
+Boundary box: car:  150   36   20   20
+Boundary box: car:  245   30   28   28
+Boundary box: car:  165   39   24   24
+Boundary box: car:  268   18   21   21
+Boundary box: car:  190   17   28   28
+Boundary box: car:  264   52   32   32
+Boundary box: car:  119   46   39   39
+Boundary box: car:  83   62   44   44
+Boundary box: car:  8   62   53   53
+Inference time:  0.9626562595367432
+Boundary box: car:  195   22   21   21
+Boundary box: car:  149   34   24   24
+Boundary box: car:  165   41   23   23
+Boundary box: car:  241   25   35   35
+Boundary box: car:  267   55   26   26
+Boundary box: car:  78   64   44   44
+Boundary box: car:  11   71   43   43
+Boundary box: car:  259   46   42   42
+Inference time:  1.0579895973205566
+Boundary box: car:  265   16   22   22
+Boundary box: car:  193   22   23   23
+Boundary box: car:  162   25   21   21
+Boundary box: car:  164   41   24   24
+Boundary box: car:  246   28   30   30
+Boundary box: car:  146   34   24   24
+Boundary box: car:  253   41   48   48
+Boundary box: car:  266   52   29   29
+Boundary box: car:  118   59   27   27
+Boundary box: car:  6   68   48   48
+Boundary box: car:  73   62   49   49
+Inference time:  1.0862042903900146
+Boundary box: car:  246   32   23   23
+Boundary box: car:  189   20   27   27
+Boundary box: car:  264   15   23   23
+Boundary box: car:  162   42   24   24
+Boundary box: car:  243   26   33   33
+Boundary box: car:  259   43   41   41
+Boundary box: car:  72   66   45   45
+Boundary box: car:  3   72   45   45
+Boundary box: car:  2   58   66   66
+Inference time:  1.0497980117797852
+Boundary box: car:  193   23   22   22
+Boundary box: car:  248   32   23   23
+Boundary box: car:  265   48   32   32
+Boundary box: car:  76   53   35   35
+Boundary box: car:  108   47   45   45
+Boundary box: car:  68   65   48   48
+Boundary box: car:  3   54   66   66
+Boundary box: car:  1   74   44   44
+Inference time:  1.0713882446289062
+Boundary box: car:  175   16   21   21
+Boundary box: car:  192   23   22   22
+Boundary box: car:  160   25   21   21
+Boundary box: car:  160   41   25   25
+Boundary box: car:  246   27   29   29
+Boundary box: car:  258   42   40   40
+Boundary box: car:  66   67   47   47
+Inference time:  0.765040397644043
+Boundary box: car:  175   16   22   22
+Boundary box: car:  191   21   25   25
+Boundary box: car:  274   24   28   28
+Boundary box: car:  248   27   28   28
+Boundary box: car:  159   44   24   24
+Boundary box: car:  2   82   34   34
+Boundary box: car:  64   70   45   45
+Boundary box: car:  39   33   101   101
+Inference time:  0.8913154602050781
+Boundary box: car:  191   23   23   23
+Boundary box: car:  159   25   23   23
+Boundary box: car:  248   29   24   24
+Boundary box: car:  175   17   22   22
+Boundary box: car:  252   6   23   23
+Boundary box: car:  156   43   27   27
+Boundary box: car:  106   61   29   29
+Boundary box: car:  61   70   47   47
+Inference time:  0.9640326499938965
+Boundary box: car:  190   24   22   22
+Boundary box: car:  246   27   27   27
+Boundary box: car:  160   26   22   22
+Boundary box: car:  270   24   26   26
+Boundary box: car:  156   45   24   24
+Boundary box: car:  173   15   24   24
+Boundary box: car:  60   74   44   44
+Inference time:  1.043731451034546
+Boundary box: car:  189   23   24   24
+Boundary box: car:  159   27   21   21
+Boundary box: car:  249   30   22   22
+Boundary box: car:  262   12   45   45
+Boundary box: car:  256   33   50   50
+Boundary box: car:  152   46   25   25
+Boundary box: car:  269   47   28   28
+Boundary box: car:  96   55   43   43
+Boundary box: car:  56   75   45   45
+Inference time:  0.9787507057189941
+Boundary box: car:  157   26   22   22
+Boundary box: car:  249   28   24   24
+Boundary box: car:  186   23   26   26
+Boundary box: car:  152   47   23   23
+Boundary box: car:  270   48   26   26
+Boundary box: car:  98   61   35   35
+Boundary box: car:  53   76   45   45
+Inference time:  1.0818114280700684
+Boundary box: car:  174   19   21   21
+Boundary box: car:  249   27   25   25
+Boundary box: car:  188   24   24   24
+Boundary box: car:  154   26   24   24
+Boundary box: car:  272   24   27   27
+Boundary box: car:  134   36   28   28
+Boundary box: car:  151   47   24   24
+Boundary box: car:  92   56   43   43
+Boundary box: car:  49   80   42   42
+Inference time:  1.1633117198944092
+Boundary box: car:  186   24   24   24
+Boundary box: car:  250   27   23   23
+Boundary box: car:  155   26   24   24
+Boundary box: car:  175   20   21   21
+Boundary box: car:  150   46   24   24
+Boundary box: car:  98   67   29   29
+Boundary box: car:  51   59   39   39
+Boundary box: car:  87   56   46   46
+Boundary box: car:  39   79   48   48
+Boundary box: car:  135   186   54   54
+Inference time:  0.9004218578338623
+Boundary box: car:  172   18   24   24
+Boundary box: car:  187   24   25   25
+Boundary box: car:  250   28   23   23
+Boundary box: car:  136   25   23   23
+Boundary box: car:  150   23   29   29
+Boundary box: car:  149   50   23   23
+Boundary box: car:  90   64   36   36
+Boundary box: car:  37   80   49   49
+Boundary box: car:  46   61   41   41
+Boundary box: car:  123   162   72   72
+Inference time:  1.019864797592163
+Boundary box: car:  187   26   23   23
+Boundary box: car:  156   30   21   21
+Boundary box: car:  172   18   24   24
+Boundary box: car:  148   52   21   21
+Boundary box: car:  85   62   41   41
+Boundary box: car:  35   81   49   49
+Boundary box: car:  129   156   80   80
+Inference time:  1.0026345252990723
+Boundary box: car:  262   10   23   23
+Boundary box: car:  186   26   23   23
+Boundary box: car:  154   29   21   21
+Boundary box: car:  250   26   23   23
+Boundary box: car:  271   22   26   26
+Boundary box: car:  172   18   24   24
+Boundary box: car:  144   47   29   29
+Boundary box: car:  84   63   40   40
+Boundary box: car:  29   80   54   54
+Boundary box: car:  140   156   72   72
+Inference time:  1.005556344985962
+Boundary box: car:  186   27   23   23
+Boundary box: car:  155   30   21   21
+Boundary box: car:  172   18   23   23
+Boundary box: car:  148   23   30   30
+Boundary box: car:  145   53   22   22
+Boundary box: car:  262   36   35   35
+Boundary box: car:  142   46   30   30
+Boundary box: car:  79   63   43   43
+Boundary box: car:  27   83   51   51
+Boundary box: car:  139   148   76   76
+Inference time:  1.0280609130859375
+Boundary box: car:  172   20   21   21
+Boundary box: car:  185   29   21   21
+Boundary box: car:  153   28   23   23
+Boundary box: car:  270   18   29   29
+Boundary box: car:  144   53   22   22
+Boundary box: car:  79   67   38   38
+Boundary box: car:  29   65   44   44
+Boundary box: car:  24   85   50   50
+Boundary box: car:  144   146   71   71
+Inference time:  1.100097417831421
+Boundary box: car:  259   9   24   24
+Boundary box: car:  170   20   23   23
+Boundary box: car:  248   20   29   29
+Boundary box: car:  184   28   22   22
+Boundary box: car:  137   50   29   29
+Boundary box: car:  74   64   44   44
+Boundary box: car:  22   91   46   46
+Boundary box: car:  164   154   54   54
+Inference time:  1.0979971885681152
+Boundary box: car:  170   20   22   22
+Boundary box: car:  185   30   21   21
+Boundary box: car:  150   29   24   24
+Boundary box: car:  248   22   26   26
+Boundary box: car:  268   38   29   29
+Boundary box: car:  248   3   23   23
+Boundary box: car:  20   66   47   47
+Boundary box: car:  72   65   44   44
+Boundary box: car:  140   55   22   22
+Boundary box: car:  16   90   50   50
+Boundary box: car:  133   47   34   34
+Boundary box: car:  150   133   75   75
+Inference time:  0.984586238861084
+Boundary box: car:  183   26   26   26
+Boundary box: car:  149   30   24   24
+Boundary box: car:  250   22   24   24
+Boundary box: car:  270   39   28   28
+Boundary box: car:  135   52   26   26
+Boundary box: car:  69   68   44   44
+Boundary box: car:  14   69   46   46
+Boundary box: car:  9   87   57   57
+Boundary box: car:  153   127   76   76
+Inference time:  0.9935128688812256
+Boundary box: car:  248   3   22   22
+Boundary box: car:  182   29   23   23
+Boundary box: car:  149   29   25   25
+Boundary box: car:  274   42   22   22
+Boundary box: car:  169   18   24   24
+Boundary box: car:  136   56   24   24
+Boundary box: car:  68   73   38   38
+Boundary box: car:  8   71   47   47
+Boundary box: car:  6   92   53   53
+Boundary box: car:  158   127   70   70
+Inference time:  1.0247597694396973
+Boundary box: car:  147   29   25   25
+Boundary box: car:  182   29   24   24
+Boundary box: car:  273   41   22   22
+Boundary box: car:  169   19   24   24
+Boundary box: car:  134   55   26   26
+Boundary box: car:  127   55   27   27
+Boundary box: car:  62   70   44   44
+Boundary box: car:  2   95   52   52
+Boundary box: car:  165   122   70   70
+Inference time:  1.104588508605957
+Boundary box: car:  276   24   22   22
+Boundary box: car:  182   30   24   24
+Boundary box: car:  271   37   26   26
+Boundary box: car:  169   20   23   23
+Boundary box: car:  144   26   29   29
+Boundary box: car:  58   70   45   45
+Boundary box: car:  2   70   52   52
+Boundary box: car:  170   122   67   67
+Boundary box: car:  154   106   92   92
+Inference time:  1.1219618320465088
+Boundary box: car:  180   29   24   24
+Boundary box: car:  146   31   23   23
+Boundary box: car:  273   39   24   24
+Boundary box: car:  128   58   24   24
+Boundary box: car:  166   17   43   43
+Boundary box: car:  56   73   45   45
+Boundary box: car:  171   118   67   67
+Inference time:  1.0488991737365723
+Boundary box: car:  168   22   22   22
+Boundary box: car:  145   30   25   25
+Boundary box: car:  178   31   25   25
+Boundary box: car:  246   2   23   23
+Boundary box: car:  273   38   24   24
+Boundary box: car:  211   7   45   45
+Boundary box: car:  53   76   41   41
+Boundary box: car:  173   118   66   66
+Inference time:  0.8589117527008057
+Boundary box: car:  145   31   25   25
+Boundary box: car:  178   30   25   25
+Boundary box: car:  273   39   23   23
+Boundary box: car:  211   7   45   45
+Boundary box: car:  123   56   30   30
+Boundary box: car:  48   76   45   45
+Boundary box: car:  180   110   63   63
+Inference time:  0.916696310043335
+Boundary box: car:  145   32   23   23
+Boundary box: car:  177   31   24   24
+Boundary box: car:  274   38   22   22
+Boundary box: car:  124   60   26   26
+Boundary box: car:  177   107   68   68
+Inference time:  0.9680640697479248
+Boundary box: car:  176   32   25   25
+Boundary box: car:  140   28   30   30
+Boundary box: car:  272   35   26   26
+Boundary box: car:  166   20   26   26
+Boundary box: car:  121   59   28   28
+Boundary box: car:  52   68   34   34
+Boundary box: car:  42   80   43   43
+Boundary box: car:  182   103   65   65
+Inference time:  1.086632490158081
+Boundary box: car:  245   3   21   21
+Boundary box: car:  274   36   24   24
+Boundary box: car:  140   29   28   28
+Boundary box: car:  175   32   25   25
+Boundary box: car:  248   19   24   24
+Boundary box: car:  158   11   57   57
+Boundary box: car:  36   79   48   48
+Boundary box: car:  183   100   68   68
+Inference time:  1.2892036437988281
+Boundary box: car:  243   4   20   20
+Boundary box: car:  274   38   21   21
+Boundary box: car:  141   30   27   27
+Boundary box: car:  174   32   26   26
+Boundary box: car:  34   83   44   44
+Boundary box: car:  190   101   61   61
+Inference time:  1.0428688526153564
+Boundary box: car:  141   33   24   24
+Boundary box: car:  274   35   23   23
+Boundary box: car:  172   29   30   30
+Boundary box: car:  28   83   47   47
+Boundary box: car:  192   96   62   62
+Inference time:  1.1137325763702393
+Boundary box: car:  274   35   22   22
+Boundary box: car:  171   33   26   26
+Boundary box: car:  160   20   28   28
+Boundary box: car:  136   30   29   29
+Boundary box: car:  128   21   43   43
+Boundary box: car:  25   82   51   51
+Boundary box: car:  198   98   55   55
+Inference time:  1.1035118103027344
+Boundary box: car:  274   34   23   23
+Boundary box: car:  137   31   28   28
+Boundary box: car:  168   33   27   27
+Boundary box: car:  252   6   23   23
+Boundary box: car:  107   67   26   26
+Boundary box: car:  21   84   51   51
+Boundary box: car:  98   56   43   43
+Inference time:  0.9681291580200195
+Boundary box: car:  274   34   23   23
+Boundary box: car:  169   35   25   25
+Boundary box: car:  160   20   28   28
+Boundary box: car:  126   22   43   43
+Boundary box: car:  18   89   47   47
+Boundary box: car:  197   88   65   65
+Inference time:  1.0519096851348877
+Boundary box: car:  240   2   21   21
+Boundary box: car:  273   32   26   26
+Boundary box: car:  134   35   24   24
+Boundary box: car:  166   33   30   30
+Boundary box: car:  125   22   43   43
+Boundary box: car:  104   68   26   26
+Boundary box: car:  10   83   56   56
+Boundary box: car:  203   89   58   58
+Inference time:  1.0844388008117676
+Boundary box: car:  132   30   32   32
+Boundary box: car:  272   31   25   25
+Boundary box: car:  99   66   30   30
+Boundary box: car:  18   80   35   35
+Boundary box: car:  7   92   48   48
+Boundary box: car:  205   88   57   57
+Inference time:  1.0525219440460205
+Boundary box: car:  275   33   22   22
+Boundary box: car:  131   32   30   30
+Boundary box: car:  164   34   30   30
+Boundary box: car:  95   64   36   36
+Boundary box: car:  3   91   52   52
+Boundary box: car:  205   86   57   57
+Inference time:  1.0181334018707275
+Boundary box: car:  128   31   32   32
+Boundary box: car:  273   30   26   26
+Boundary box: car:  8   77   45   45
+Boundary box: car:  1   96   47   47
+Boundary box: car:  206   80   60   60
+Inference time:  1.117051362991333
+Boundary box: car:  272   30   26   26
+Boundary box: car:  131   34   27   27
+Boundary box: car:  160   20   28   28
+Boundary box: car:  121   25   43   43
+Boundary box: car:  84   60   45   45
+Boundary box: car:  94   70   29   29
+Boundary box: car:  213   84   52   52
+Inference time:  1.030064344406128
+Boundary box: car:  272   30   25   25
+Boundary box: car:  124   29   36   36
+Boundary box: car:  90   72   30   30
+Boundary box: car:  216   82   51   51
+Inference time:  0.922391414642334
+Boundary box: car:  124   31   34   34
+Boundary box: car:  268   26   30   30
+Boundary box: car:  78   64   43   43
+Boundary box: car:  215   80   53   53
+Inference time:  0.9595954418182373
+Boundary box: car:  272   29   25   25
+Boundary box: car:  122   32   35   35
+Boundary box: car:  158   18   34   34
+Boundary box: car:  81   70   36   36
+Boundary box: car:  220   80   49   49
+Inference time:  1.0117623805999756
+Boundary box: car:  273   30   24   24
+Boundary box: car:  160   28   23   23
+Boundary box: car:  122   33   34   34
+Boundary box: car:  83   75   30   30
+Boundary box: car:  221   76   50   50
+Inference time:  0.9839346408843994
+Boundary box: car:  273   30   24   24
+Boundary box: car:  122   33   34   34
+Boundary box: car:  149   32   39   39
+Boundary box: car:  221   75   51   51
+Inference time:  1.1015686988830566
+Boundary box: car:  119   32   36   36
+Boundary box: car:  154   44   26   26
+Boundary box: car:  71   72   40   40
+Boundary box: car:  221   70   53   53
+Inference time:  1.1364731788635254
+Boundary box: car:  274   29   24   24
+Boundary box: car:  154   27   27   27
+Boundary box: car:  117   32   37   37
+Boundary box: car:  155   44   25   25
+Boundary box: car:  83   52   23   23
+Boundary box: car:  63   69   47   47
+Boundary box: car:  224   70   51   51
+Inference time:  0.9743902683258057
+Boundary box: car:  274   28   22   22
+Boundary box: car:  117   35   34   34
+Boundary box: car:  155   25   28   28
+Boundary box: car:  152   43   27   27
+Boundary box: car:  69   80   32   32
+Boundary box: car:  226   68   52   52
+Inference time:  1.0374979972839355
+Boundary box: car:  116   34   35   35
+Boundary box: car:  137   34   43   43
+Boundary box: car:  67   85   28   28
+Boundary box: car:  230   70   46   46
+Inference time:  1.0205614566802979
+Boundary box: car:  117   38   31   31
+Boundary box: car:  269   23   32   32
+Boundary box: car:  148   19   39   39
+Boundary box: car:  150   48   23   23
+Boundary box: car:  74   65   21   21
+Boundary box: car:  74   52   26   26
+Boundary box: car:  60   81   37   37
+Boundary box: car:  230   70   45   45
+Boundary box: car:  142   166   72   72
+Inference time:  1.1236803531646729
+Boundary box: car:  272   24   30   30
+Boundary box: car:  114   36   35   35
+Boundary box: car:  141   39   37   37
+Boundary box: car:  75   55   23   23
+Boundary box: car:  147   16   43   43
+Boundary box: car:  229   65   51   51
+Boundary box: car:  53   76   45   45
+Boundary box: car:  149   164   69   69
+Inference time:  1.121856689453125
+Boundary box: car:  113   37   35   35
+Boundary box: car:  148   22   34   34
+Boundary box: car:  147   49   23   23
+Boundary box: car:  74   56   22   22
+Boundary box: car:  231   65   47   47
+Boundary box: car:  46   76   50   50
+Inference time:  1.1743676662445068
+Boundary box: car:  175   25   21   21
+Boundary box: car:  271   24   26   26
+Boundary box: car:  111   37   35   35
+Boundary box: car:  132   36   45   45
+Boundary box: car:  231   62   49   49
+Boundary box: car:  54   91   29   29
+Boundary box: car:  156   157   63   63
+Inference time:  1.3398363590240479
+Boundary box: car:  273   25   24   24
+Boundary box: car:  142   14   47   47
+Boundary box: car:  149   23   32   32
+Boundary box: car:  111   39   33   33
+Boundary box: car:  133   37   44   44
+Boundary box: car:  233   62   46   46
+Boundary box: car:  44   84   42   42
+Boundary box: car:  161   157   59   59
+Inference time:  0.9705467224121094
+Boundary box: car:  273   25   23   23
+Boundary box: car:  110   40   32   32
+Boundary box: car:  234   58   49   49
+Boundary box: car:  40   85   43   43
+Inference time:  1.2135369777679443
+Boundary box: car:  101   33   44   44
+Boundary box: car:  142   18   41   41
+Boundary box: car:  130   37   45   45
+Boundary box: car:  64   60   22   22
+Boundary box: car:  35   86   45   45
+Boundary box: car:  234   58   47   47
+Boundary box: car:  164   150   59   59
+Inference time:  1.1434476375579834
+Boundary box: car:  150   30   25   25
+Boundary box: car:  107   42   32   32
+Boundary box: car:  124   35   51   51
+Boundary box: car:  237   59   45   45
+Boundary box: car:  30   88   45   45
+Boundary box: car:  170   145   59   59
+Inference time:  1.2539806365966797
+Boundary box: car:  271   22   26   26
+Boundary box: car:  170   24   23   23
+Boundary box: car:  148   29   27   27
+Boundary box: car:  107   44   28   28
+Boundary box: car:  97   32   47   47
+Boundary box: car:  133   49   31   31
+Boundary box: car:  236   56   47   47
+Boundary box: car:  25   90   47   47
+Boundary box: car:  171   142   59   59
+Inference time:  1.0750303268432617
+Boundary box: car:  170   24   24   24
+Boundary box: car:  148   32   23   23
+Boundary box: car:  103   42   33   33
+Boundary box: car:  134   55   26   26
+Boundary box: car:  236   55   48   48
+Boundary box: car:  36   54   54   54
+Boundary box: car:  25   96   39   39
+Boundary box: car:  173   138   60   60
+Inference time:  1.0924921035766602
+Boundary box: car:  170   25   23   23
+Boundary box: car:  271   22   24   24
+Boundary box: car:  102   43   31   31
+Boundary box: car:  128   51   33   33
+Boundary box: car:  239   54   47   47
+Boundary box: car:  20   94   44   44
+Boundary box: car:  176   137   58   58
+Inference time:  1.0870366096496582
+Boundary box: car:  170   25   24   24
+Boundary box: car:  144   30   27   27
+Boundary box: car:  101   47   29   29
+Boundary box: car:  140   20   45   45
+Boundary box: car:  242   55   44   44
+Boundary box: car:  13   95   46   46
+Boundary box: car:  167   115   84   84
+Inference time:  0.9346487522125244
+Boundary box: car:  170   26   23   23
+Boundary box: car:  99   46   29   29
+Boundary box: car:  116   40   48   48
+Boundary box: car:  241   52   46   46
+Boundary box: car:  10   99   44   44
+Boundary box: car:  175   124   67   67
+Inference time:  0.9289896488189697
+Boundary box: car:  169   26   23   23
+Boundary box: car:  137   22   43   43
+Boundary box: car:  98   45   33   33
+Boundary box: car:  242   51   46   46
+Boundary box: car:  44   66   23   23
+Boundary box: car:  4   100   46   46
+Boundary box: car:  182   125   60   60
+Inference time:  0.9832382202148438
+Boundary box: car:  168   28   22   22
+Boundary box: car:  141   32   28   28
+Boundary box: car:  96   47   31   31
+Boundary box: car:  48   54   23   23
+Boundary box: car:  122   59   26   26
+Boundary box: car:  243   50   46   46
+Boundary box: car:  32   69   43   43
+Boundary box: car:  1   104   44   44
+Boundary box: car:  179   120   65   65
+Inference time:  1.0671889781951904
+Boundary box: car:  169   27   22   22
+Boundary box: car:  139   28   33   33
+Boundary box: car:  98   52   25   25
+Boundary box: car:  120   60   26   26
+Boundary box: car:  247   50   43   43
+Boundary box: car:  188   122   56   56
+Inference time:  1.0954208374023438
+Boundary box: car:  130   17   51   51
+Boundary box: car:  85   41   43   43
+Boundary box: car:  96   52   26   26
+Boundary box: car:  249   51   39   39
+Boundary box: car:  186   118   59   59
+Inference time:  1.0318691730499268
+Boundary box: car:  167   28   23   23
+Boundary box: car:  271   20   23   23
+Boundary box: car:  138   32   32   32
+Boundary box: car:  91   49   31   31
+Boundary box: car:  250   51   39   39
+Boundary box: car:  186   112   64   64
+Inference time:  1.2154223918914795
+Boundary box: car:  166   27   25   25
+Boundary box: car:  132   25   41   41
+Boundary box: car:  98   44   23   23
+Boundary box: car:  92   51   28   28
+Boundary box: car:  246   41   52   52
+Boundary box: car:  196   117   52   52
+Inference time:  1.0564191341400146
+Boundary box: car:  271   20   23   23
+Boundary box: car:  166   27   24   24
+Boundary box: car:  128   23   44   44
+Boundary box: car:  250   47   40   40
+Boundary box: car:  86   47   34   34
+Boundary box: car:  26   74   23   23
+Boundary box: car:  196   113   55   55
+Inference time:  0.7948691844940186
+Boundary box: car:  164   28   25   25
+Boundary box: car:  130   28   38   38
+Boundary box: car:  250   46   42   42
+Boundary box: car:  88   55   25   25
+Boundary box: car:  104   64   31   31
+Boundary box: car:  76   43   43   43
+Boundary box: car:  24   76   22   22
+Boundary box: car:  193   107   61   61
+Inference time:  1.0353765487670898
+Boundary box: car:  164   28   26   26
+Boundary box: car:  270   20   22   22
+Boundary box: car:  129   27   39   39
+Boundary box: car:  250   45   42   42
+Boundary box: car:  82   51   33   33
+Boundary box: car:  19   74   26   26
+Boundary box: car:  100   65   30   30
+Boundary box: car:  197   107   58   58
+Inference time:  1.0636496543884277
+Boundary box: car:  166   30   23   23
+Boundary box: car:  126   24   46   46
+Boundary box: car:  243   33   59   59
+Boundary box: car:  18   79   22   22
+Boundary box: car:  98   65   31   31
+Boundary box: car:  77   47   39   39
+Boundary box: car:  202   105   56   56
+Inference time:  0.9080097675323486
+Boundary box: car:  160   24   34   34
+Boundary box: car:  125   23   48   48
+Boundary box: car:  254   44   38   38
+Boundary box: car:  240   24   72   72
+Boundary box: car:  80   52   34   34
+Boundary box: car:  95   64   35   35
+Boundary box: car:  203   104   53   53
+Inference time:  1.1474406719207764
+Boundary box: car:  165   31   22   22
+Boundary box: car:  158   24   34   34
+Boundary box: car:  122   26   44   44
+Boundary box: car:  252   42   41   41
+Boundary box: car:  81   58   25   25
+Boundary box: car:  8   78   26   26
+Boundary box: car:  93   65   36   36
+Boundary box: car:  204   100   56   56
+Inference time:  1.0210084915161133
+Boundary box: car:  236   8   21   21
+Boundary box: car:  163   30   25   25
+Boundary box: car:  122   25   46   46
+Boundary box: car:  255   45   35   35
+Boundary box: car:  77   57   30   30
+Boundary box: car:  86   64   40   40
+Boundary box: car:  209   103   47   47
+Inference time:  1.047471523284912
+Boundary box: car:  163   32   24   24
+Boundary box: car:  122   27   43   43
+Boundary box: car:  252   37   45   45
+Boundary box: car:  242   20   72   72
+Boundary box: car:  86   67   38   38
+Boundary box: car:  3   82   24   24
+Boundary box: car:  77   58   27   27
+Boundary box: car:  204   95   57   57
+Inference time:  1.1236162185668945
+Boundary box: car:  269   18   21   21
+Boundary box: car:  163   31   24   24
+Boundary box: car:  121   26   46   46
+Boundary box: car:  253   38   43   43
+Boundary box: car:  75   60   26   26
+Boundary box: car:  81   66   40   40
+Boundary box: car:  211   100   47   47
+Inference time:  0.991513729095459
+Boundary box: car:  164   33   22   22
+Boundary box: car:  114   24   50   50
+Boundary box: car:  257   39   38   38
+Boundary box: car:  72   60   28   28
+Boundary box: car:  79   70   38   38
+Boundary box: car:  206   92   57   57
+Inference time:  0.969672679901123
+Boundary box: car:  264   45   28   28
+Boundary box: car:  115   25   49   49
+Boundary box: car:  253   34   44   44
+Boundary box: car:  73   69   41   41
+Boundary box: car:  219   98   45   45
+Inference time:  0.9829921722412109
+Boundary box: car:  114   26   48   48
+Boundary box: car:  251   31   49   49
+Boundary box: car:  147   16   50   50
+Boundary box: car:  74   72   39   39
+Boundary box: car:  212   92   51   51
+Inference time:  1.005460500717163
+Boundary box: car:  160   32   27   27
+Boundary box: car:  112   27   48   48
+Boundary box: car:  148   18   47   47
+Boundary box: car:  66   70   44   44
+Boundary box: car:  214   90   50   50
+Inference time:  0.9745216369628906
+Boundary box: car:  269   17   21   21
+Boundary box: car:  162   35   22   22
+Boundary box: car:  114   30   43   43
+Boundary box: car:  252   30   48   48
+Boundary box: car:  66   76   39   39
+Boundary box: car:  220   93   43   43
+Inference time:  0.9886288642883301
+Boundary box: car:  266   15   22   22
+Boundary box: car:  162   35   22   22
+Boundary box: car:  110   28   48   48
+Boundary box: car:  57   72   46   46
+Boundary box: car:  216   85   53   53
+Inference time:  1.0837488174438477
+Boundary box: car:  267   15   22   22
+Boundary box: car:  160   34   23   23
+Boundary box: car:  258   32   40   40
+Boundary box: car:  108   27   49   49
+Boundary box: car:  60   78   39   39
+Boundary box: car:  219   85   50   50
+Inference time:  1.0894229412078857
+Boundary box: car:  159   35   24   24
+Boundary box: car:  107   28   49   49
+Boundary box: car:  255   30   44   44
+Boundary box: car:  224   85   46   46
+Boundary box: car:  51   75   47   47
+Inference time:  1.0863540172576904
+Boundary box: car:  158   35   25   25
+Boundary box: car:  260   34   36   36
+Boundary box: car:  107   30   46   46
+Boundary box: car:  145   20   47   47
+Boundary box: car:  52   87   32   32
+Boundary box: car:  219   81   50   50
+Inference time:  0.8085591793060303
+Boundary box: car:  265   14   22   22
+Boundary box: car:  156   34   26   26
+Boundary box: car:  264   38   30   30
+Boundary box: car:  104   30   49   49
+Boundary box: car:  49   68   26   26
+Boundary box: car:  45   85   40   40
+Boundary box: car:  225   85   43   43
+Boundary box: car:  216   70   64   64
+Inference time:  0.9749031066894531
+Boundary box: car:  156   35   26   26
+Boundary box: car:  265   40   27   27
+Boundary box: car:  104   33   44   44
+Boundary box: car:  256   30   42   42
+Boundary box: car:  222   77   52   52
+Boundary box: car:  38   82   48   48
+Inference time:  1.0464158058166504
+Boundary box: car:  266   38   28   28
+Boundary box: car:  152   34   30   30
+Boundary box: car:  101   31   49   49
+Boundary box: car:  256   28   43   43
+Boundary box: car:  40   58   45   45
+Boundary box: car:  227   79   46   46
+Boundary box: car:  31   77   55   55
+Inference time:  1.0533223152160645
+Boundary box: car:  268   37   26   26
+Boundary box: car:  153   35   28   28
+Boundary box: car:  96   29   54   54
+Boundary box: car:  227   77   47   47
+Boundary box: car:  13   44   106   106
+Inference time:  1.0387253761291504
+Boundary box: car:  155   38   24   24
+Boundary box: car:  268   36   27   27
+Boundary box: car:  100   35   44   44
+Boundary box: car:  231   78   43   43
+Boundary box: car:  26   91   43   43
+Inference time:  1.0612857341766357
+Boundary box: car:  264   14   21   21
+Boundary box: car:  154   37   26   26
+Boundary box: car:  267   35   28   28
+Boundary box: car:  97   34   47   47
+Boundary box: car:  34   64   39   39
+Boundary box: car:  227   73   49   49
+Boundary box: car:  21   90   47   47
+Inference time:  1.1976923942565918
+Boundary box: car:  265   14   21   21
+Boundary box: car:  268   35   27   27
+Boundary box: car:  152   38   26   26
+Boundary box: car:  95   34   49   49
+Boundary box: car:  232   75   44   44
+Boundary box: car:  19   93   46   46
+Inference time:  0.9662985801696777
+Boundary box: car:  265   14   21   21
+Boundary box: car:  270   35   26   26
+Boundary box: car:  152   39   26   26
+Boundary box: car:  92   34   49   49
+Boundary box: car:  232   72   47   47
+Boundary box: car:  13   94   48   48
+Inference time:  0.9810521602630615
+Boundary box: car:  262   12   23   23
+Boundary box: car:  153   40   25   25
+Boundary box: car:  269   36   26   26
+Boundary box: car:  92   35   49   49
+Boundary box: car:  22   70   37   37
+Boundary box: car:  227   65   54   54
+Boundary box: car:  9   99   44   44
+Inference time:  0.9778087139129639
+Boundary box: car:  269   35   26   26
+Boundary box: car:  151   39   27   27
+Boundary box: car:  89   35   51   51
+Boundary box: car:  236   73   40   40
+Boundary box: car:  227   60   60   60
+Boundary box: car:  5   100   46   46
+Inference time:  1.061173677444458
+Boundary box: car:  150   40   26   26
+Boundary box: car:  87   34   53   53
+Boundary box: car:  233   69   45   45
+Boundary box: car:  3   104   43   43
+Boundary box: car:  14   62   52   52
+Inference time:  1.1312155723571777
+Boundary box: car:  270   34   25   25
+Boundary box: car:  86   37   50   50
+Boundary box: car:  151   45   21   21
+Boundary box: car:  236   69   43   43
+Boundary box: car:  36   192   47   47
+Inference time:  1.1488964557647705
+Boundary box: car:  270   33   25   25
+Boundary box: car:  84   38   49   49
+Boundary box: car:  147   44   25   25
+Boundary box: car:  14   74   38   38
+Boundary box: car:  233   64   49   49
+Boundary box: car:  46   186   47   47
+Inference time:  1.0544424057006836
+Boundary box: car:  270   33   25   25
+Boundary box: car:  145   42   28   28
+Boundary box: car:  83   40   48   48
+Boundary box: car:  238   67   42   42
+Inference time:  0.9764957427978516
+Boundary box: car:  269   31   26   26
+Boundary box: car:  145   43   27   27
+Boundary box: car:  79   38   50   50
+Boundary box: car:  245   69   35   35
+Boundary box: car:  5   71   46   46
+Boundary box: car:  61   175   46   46
+Inference time:  1.0065240859985352
+Boundary box: car:  173   10   21   21
+Boundary box: car:  270   32   24   24
+Boundary box: car:  265   25   33   33
+Boundary box: car:  142   40   30   30
+Boundary box: car:  78   37   53   53
+Boundary box: car:  149   47   21   21
+Boundary box: car:  239   63   44   44
+Boundary box: car:  3   78   40   40
+Boundary box: car:  66   168   48   48
+Inference time:  1.0023002624511719
+Boundary box: car:  174   10   20   20
+Boundary box: car:  261   7   28   28
+Boundary box: car:  268   29   28   28
+Boundary box: car:  144   44   28   28
+Boundary box: car:  76   39   51   51
+Boundary box: car:  233   58   52   52
+Boundary box: car:  4   82   34   34
+Inference time:  1.1138417720794678
+Boundary box: car:  174   10   21   21
+Boundary box: car:  269   28   28   28
+Boundary box: car:  261   10   24   24
+Boundary box: car:  144   46   25   25
+Boundary box: car:  75   42   50   50
+Boundary box: car:  245   65   38   38
+Boundary box: car:  67   165   72   72
+Inference time:  1.194608449935913
+Boundary box: car:  174   9   22   22
+Boundary box: car:  268   28   30   30
+Boundary box: car:  142   45   28   28
+Boundary box: car:  73   44   48   48
+Boundary box: car:  241   61   44   44
+Boundary box: car:  69   158   77   77
+Inference time:  0.9301807880401611
+Boundary box: car:  174   9   22   22
+Boundary box: car:  270   29   27   27
+Boundary box: car:  137   41   34   34
+Boundary box: car:  68   39   56   56
+Boundary box: car:  247   65   36   36
+Boundary box: car:  79   160   67   67
+Inference time:  0.9055085182189941
+Boundary box: car:  174   9   22   22
+Boundary box: car:  271   30   24   24
+Boundary box: car:  260   18   40   40
+Boundary box: car:  67   39   56   56
+Boundary box: car:  142   50   23   23
+Boundary box: car:  245   61   39   39
+Boundary box: car:  83   154   69   69
+Inference time:  1.0007696151733398
+Boundary box: car:  174   9   22   22
+Boundary box: car:  272   30   23   23
+Boundary box: car:  260   19   39   39
+Boundary box: car:  66   46   49   49
+Boundary box: car:  136   45   31   31
+Boundary box: car:  249   61   37   37
+Boundary box: car:  81   142   79   79
+Inference time:  0.9110016822814941
+Boundary box: car:  262   19   37   37
+Boundary box: car:  133   45   32   32
+Boundary box: car:  63   39   58   58
+Boundary box: car:  208   4   50   50
+Boundary box: car:  248   59   38   38
+Boundary box: car:  85   135   81   81
+Inference time:  1.0579252243041992
+Boundary box: car:  173   9   24   24
+Boundary box: car:  262   19   37   37
+Boundary box: car:  208   4   50   50
+Boundary box: car:  59   40   60   60
+Boundary box: car:  144   54   21   21
+Boundary box: car:  255   63   30   30
+Boundary box: car:  242   56   43   43
+Boundary box: car:  96   136   73   73
+Inference time:  1.150916337966919
+Boundary box: car:  172   8   24   24
+Boundary box: car:  208   4   50   50
+Boundary box: car:  134   48   30   30
+Boundary box: car:  254   63   29   29
+Boundary box: car:  55   37   65   65
+Boundary box: car:  106   136   64   64
+Inference time:  1.3172132968902588
+Boundary box: car:  174   10   22   22
+Boundary box: car:  271   27   24   24
+Boundary box: car:  132   48   32   32
+Boundary box: car:  48   28   76   76
+Boundary box: car:  252   59   34   34
+Boundary box: car:  59   51   48   48
+Boundary box: car:  107   129   69   69
+Inference time:  0.9371359348297119
+Boundary box: car:  258   10   21   21
+Boundary box: car:  271   28   24   24
+Boundary box: car:  134   50   29   29
+Boundary box: car:  249   57   37   37
+Boundary box: car:  55   48   52   52
+Boundary box: car:  109   123   73   73
+Inference time:  0.9711480140686035
+Boundary box: car:  174   10   22   22
+Boundary box: car:  272   27   23   23
+Boundary box: car:  51   39   65   65
+Boundary box: car:  128   47   34   34
+Boundary box: car:  117   125   65   65
+Inference time:  0.9919729232788086
+Boundary box: car:  175   10   22   22
+Boundary box: car:  272   26   23   23
+Boundary box: car:  49   40   64   64
+Boundary box: car:  208   4   50   50
+Boundary box: car:  129   53   27   27
+Boundary box: car:  246   49   46   46
+Boundary box: car:  125   126   57   57
+Inference time:  1.118945598602295
+Boundary box: car:  172   8   26   26
+Boundary box: car:  262   18   36   36
+Boundary box: car:  208   4   50   50
+Boundary box: car:  128   53   29   29
+Boundary box: car:  256   56   34   34
+Boundary box: car:  49   52   50   50
+Boundary box: car:  122   116   66   66
+Inference time:  0.9726829528808594
+Boundary box: car:  172   9   25   25
+Boundary box: car:  195   15   23   23
+Boundary box: car:  261   16   38   38
+Boundary box: car:  208   4   50   50
+Boundary box: car:  123   51   33   33
+Boundary box: car:  250   50   40   40
+Boundary box: car:  47   58   43   43
+Boundary box: car:  37   43   65   65
+Boundary box: car:  133   122   52   52
+Inference time:  1.1069598197937012
+Boundary box: car:  173   10   24   24
+Boundary box: car:  195   16   22   22
+Boundary box: car:  38   40   68   68
+Boundary box: car:  256   6   54   54
+Boundary box: car:  258   58   28   28
+Boundary box: car:  121   51   34   34
+Boundary box: car:  247   49   43   43
+Boundary box: car:  45   59   44   44
+Boundary box: car:  134   115   57   57
+Inference time:  1.0586609840393066
+Boundary box: car:  252   6   22   22
+Boundary box: car:  272   23   23   23
+Boundary box: car:  172   9   25   25
+Boundary box: car:  39   52   54   54
+Boundary box: car:  258   56   29   29
+Boundary box: car:  139   111   57   57
+Inference time:  0.9127147197723389
+Boundary box: car:  253   8   21   21
+Boundary box: car:  273   25   22   22
+Boundary box: car:  172   9   26   26
+Boundary box: car:  261   57   25   25
+Boundary box: car:  122   56   29   29
+Boundary box: car:  248   47   43   43
+Boundary box: car:  30   40   73   73
+Boundary box: car:  260   10   43   43
+Boundary box: car:  143   109   55   55
+Boundary box: car:  123   92   84   84
+Inference time:  0.9772355556488037
+Boundary box: car:  196   18   21   21
+Boundary box: car:  269   21   27   27
+Boundary box: car:  240   28   69   69
+Boundary box: car:  256   4   54   54
+Boundary box: car:  122   58   28   28
+Boundary box: car:  34   57   51   51
+Boundary box: car:  148   111   50   50
+Inference time:  0.9124460220336914
+Boundary box: car:  253   8   21   21
+Boundary box: car:  168   8   30   30
+Boundary box: car:  256   4   54   54
+Boundary box: car:  260   53   29   29
+Boundary box: car:  115   52   37   37
+Boundary box: car:  29   52   60   60
+Boundary box: car:  148   103   56   56
+Inference time:  0.9875340461730957
+Boundary box: car:  253   8   21   21
+Boundary box: car:  267   19   29   29
+Boundary box: car:  257   7   52   52
+Boundary box: car:  30   64   46   46
+Boundary box: car:  258   51   32   32
+Boundary box: car:  149   100   56   56
+Boundary box: car:  23   44   72   72
+Inference time:  1.1729943752288818
+Boundary box: car:  268   18   29   29
+Boundary box: car:  252   6   23   23
+Boundary box: car:  170   10   28   28
+Boundary box: car:  261   53   28   28
+Boundary box: car:  114   60   30   30
+Boundary box: car:  21   46   69   69
+Boundary box: car:  157   101   50   50
+Inference time:  1.0371882915496826
+Boundary box: car:  171   12   24   24
+Boundary box: car:  268   17   30   30
+Boundary box: car:  240   26   69   69
+Boundary box: car:  261   50   29   29
+Boundary box: car:  24   60   55   55
+Boundary box: car:  157   95   56   56
+Inference time:  0.9104282855987549
+Boundary box: car:  174   13   22   22
+Boundary box: car:  265   15   32   32
+Boundary box: car:  22   64   51   51
+Boundary box: car:  14   41   80   80
+Boundary box: car:  159   90   57   57
+Inference time:  0.9010491371154785
+Boundary box: car:  170   10   28   28
+Boundary box: car:  263   51   28   28
+Boundary box: car:  10   43   79   79
+Boundary box: car:  158   86   61   61
+Boundary box: car:  17   66   46   46
+Inference time:  0.9797589778900146
+Boundary box: car:  270   19   23   23
+Boundary box: car:  261   49   30   30
+Boundary box: car:  260   14   39   39
+Boundary box: car:  106   66   28   28
+Boundary box: car:  6   40   88   88
+Boundary box: car:  12   66   51   51
+Boundary box: car:  161   87   57   57
+Inference time:  1.078270435333252
+Boundary box: car:  270   18   24   24
+Boundary box: car:  172   11   27   27
+Boundary box: car:  263   48   28   28
+Boundary box: car:  105   67   27   27
+Boundary box: car:  9   68   50   50
+Boundary box: car:  166   85   54   54
+Inference time:  1.0841364860534668
+Boundary box: car:  270   18   23   23
+Boundary box: car:  96   60   38   38
+Boundary box: car:  7   68   52   52
+Boundary box: car:  169   86   52   52
+Inference time:  0.9865655899047852
+Boundary box: car:  270   20   23   23
+Boundary box: car:  172   11   27   27
+Boundary box: car:  268   52   21   21
+Boundary box: car:  103   68   27   27
+Boundary box: car:  258   43   35   35
+Boundary box: car:  170   84   51   51
+Boundary box: car:  4   70   50   50
+Inference time:  1.088641881942749
+Boundary box: car:  271   19   22   22
+Boundary box: car:  266   12   32   32
+Boundary box: car:  266   50   22   22
+Boundary box: car:  91   62   40   40
+Boundary box: car:  179   86   44   44
+Boundary box: car:  3   78   43   43
+Inference time:  0.9671671390533447
+Boundary box: car:  271   19   21   21
+Boundary box: car:  87   59   44   44
+Boundary box: car:  177   81   49   49
+Boundary box: car:  1   76   45   45
+Inference time:  1.0487239360809326
+Boundary box: car:  270   18   22   22
+Boundary box: car:  268   48   22   22
+Boundary box: car:  88   64   40   40
+Boundary box: car:  178   79   48   48
+Inference time:  0.8324306011199951
+Boundary box: car:  270   16   23   23
+Boundary box: car:  265   46   25   25
+Boundary box: car:  86   68   36   36
+Boundary box: car:  178   74   52   52
+Inference time:  0.9830856323242188
+Boundary box: car:  85   69   36   36
+Boundary box: car:  178   72   53   53
+Inference time:  0.9813535213470459
+Boundary box: car:  268   16   23   23
+Boundary box: car:  171   14   24   24
+Boundary box: car:  185   76   44   44
+Boundary box: car:  158   176   61   61
+Inference time:  0.8850319385528564
+Boundary box: car:  268   18   21   21
+Boundary box: car:  173   15   23   23
+Boundary box: car:  79   71   36   36
+Boundary box: car:  185   72   48   48
+Boundary box: car:  151   160   78   78
+Inference time:  1.056692361831665
+Boundary box: car:  267   17   22   22
+Boundary box: car:  173   15   23   23
+Boundary box: car:  76   70   40   40
+Boundary box: car:  186   70   48   48
+Boundary box: car:  159   162   69   69
+Inference time:  1.1510791778564453
+Boundary box: car:  267   16   22   22
+Boundary box: car:  173   15   23   23
+Boundary box: car:  76   76   33   33
+Boundary box: car:  192   70   44   44
+Boundary box: car:  168   161   62   62
+Inference time:  1.381504774093628
+Boundary box: car:  266   42   25   25
+Boundary box: car:  267   12   23   23
+Boundary box: car:  240   0   27   27
+Boundary box: car:  170   8   34   34
+Boundary box: car:  198   73   38   38
+Boundary box: car:  68   72   42   42
+Boundary box: car:  159   144   80   80
+Inference time:  1.0015983581542969
+Boundary box: car:  267   16   22   22
+Boundary box: car:  170   8   34   34
+Boundary box: car:  264   38   31   31
+Boundary box: car:  193   67   45   45
+Boundary box: car:  68   74   41   41
+Boundary box: car:  167   150   65   65
+Inference time:  0.9700610637664795
+Boundary box: car:  174   18   21   21
+Boundary box: car:  270   42   22   22
+Boundary box: car:  198   68   41   41
+Boundary box: car:  68   81   31   31
+Boundary box: car:  170   144   68   68
+Inference time:  0.9115803241729736
+Boundary box: car:  172   18   22   22
+Boundary box: car:  266   12   22   22
+Boundary box: car:  270   43   22   22
+Boundary box: car:  194   63   46   46
+Boundary box: car:  171   138   72   72
+Inference time:  0.9413697719573975
+Boundary box: car:  173   18   22   22
+Boundary box: car:  270   42   23   23
+Boundary box: car:  200   64   42   42
+Boundary box: car:  58   75   45   45
+Boundary box: car:  175   139   66   66
+Inference time:  1.033017873764038
+Boundary box: car:  171   19   22   22
+Boundary box: car:  268   42   23   23
+Boundary box: car:  198   59   47   47
+Boundary box: car:  171   125   82   82
+Inference time:  1.0096442699432373
+Boundary box: car:  170   18   22   22
+Boundary box: car:  189   26   22   22
+Boundary box: car:  270   42   21   21
+Boundary box: car:  205   65   37   37
+Boundary box: car:  50   80   43   43
+Boundary box: car:  178   131   69   69
+Inference time:  1.1435401439666748
+Boundary box: car:  171   18   23   23
+Boundary box: car:  268   39   24   24
+Boundary box: car:  201   59   44   44
+Boundary box: car:  190   137   54   54
+Boundary box: car:  175   111   89   89
+Inference time:  0.9796690940856934
+Boundary box: car:  188   27   21   21
+Boundary box: car:  270   40   23   23
+Boundary box: car:  170   18   24   24
+Boundary box: car:  207   61   38   38
+Boundary box: car:  189   128   61   61
+Inference time:  0.9805483818054199
+Boundary box: car:  270   38   23   23
+Boundary box: car:  264   34   30   30
+Boundary box: car:  170   19   23   23
+Boundary box: car:  206   58   41   41
+Boundary box: car:  42   86   43   43
+Boundary box: car:  193   130   55   55
+Inference time:  0.8850119113922119
+Boundary box: car:  170   18   23   23
+Boundary box: car:  268   37   26   26
+Boundary box: car:  210   60   36   36
+Boundary box: car:  37   86   45   45
+Boundary box: car:  196   127   56   56
+Inference time:  1.0421929359436035
+Boundary box: car:  236   2   20   20
+Boundary box: car:  262   10   22   22
+Boundary box: car:  170   19   23   23
+Boundary box: car:  268   36   25   25
+Boundary box: car:  206   53   44   44
+Boundary box: car:  33   89   45   45
+Boundary box: car:  199   126   52   52
+Boundary box: car:  180   96   84   84
+Inference time:  1.1146111488342285
+Boundary box: car:  262   9   23   23
+Boundary box: car:  169   20   22   22
+Boundary box: car:  268   35   25   25
+Boundary box: car:  213   58   35   35
+Boundary box: car:  32   93   41   41
+Boundary box: car:  203   123   51   51
+Boundary box: car:  177   94   92   92
+Inference time:  1.232433795928955
+Boundary box: car:  261   9   24   24
+Boundary box: car:  170   22   20   20
+Boundary box: car:  187   29   22   22
+Boundary box: car:  269   36   25   25
+Boundary box: car:  64   30   28   28
+Boundary box: car:  212   54   39   39
+Boundary box: car:  24   90   48   48
+Boundary box: car:  202   121   51   51
+Inference time:  1.0068721771240234
+Boundary box: car:  167   20   24   24
+Boundary box: car:  188   30   21   21
+Boundary box: car:  269   36   24   24
+Boundary box: car:  64   30   28   28
+Boundary box: car:  220   61   28   28
+Boundary box: car:  210   50   43   43
+Boundary box: car:  203   117   52   52
+Boundary box: car:  21   92   50   50
+Inference time:  0.9806170463562012
+Boundary box: car:  167   22   20   20
+Boundary box: car:  269   38   21   21
+Boundary box: car:  256   8   26   26
+Boundary box: car:  211   49   43   43
+Boundary box: car:  16   94   48   48
+Boundary box: car:  207   115   52   52
+Boundary box: car:  184   90   88   88
+Inference time:  0.9702141284942627
+Boundary box: car:  169   21   22   22
+Boundary box: car:  268   33   26   26
+Boundary box: car:  256   9   26   26
+Boundary box: car:  218   54   33   33
+Boundary box: car:  10   98   47   47
+Boundary box: car:  208   114   50   50
+Boundary box: car:  184   90   88   88
+Inference time:  0.9202141761779785
+Boundary box: car:  166   20   24   24
+Boundary box: car:  184   32   21   21
+Boundary box: car:  270   34   24   24
+Boundary box: car:  222   59   26   26
+Boundary box: car:  216   49   41   41
+Boundary box: car:  10   100   46   46
+Boundary box: car:  207   107   57   57
+Inference time:  1.0024821758270264
+Boundary box: car:  169   23   20   20
+Boundary box: car:  184   30   22   22
+Boundary box: car:  270   35   22   22
+Boundary box: car:  215   47   41   41
+Boundary box: car:  4   101   47   47
+Boundary box: car:  204   102   60   60
+Inference time:  0.962627649307251
+Boundary box: car:  257   8   23   23
+Boundary box: car:  268   34   24   24
+Boundary box: car:  164   20   26   26
+Boundary box: car:  220   51   33   33
+Boundary box: car:  1   105   46   46
+Boundary box: car:  196   84   76   76
+Boundary box: car:  209   104   52   52
+Inference time:  1.0707566738128662
+Boundary box: car:  169   24   20   20
+Boundary box: car:  267   35   22   22
+Boundary box: car:  222   52   32   32
+Boundary box: car:  4   98   34   34
+Boundary box: car:  207   99   56   56
+Inference time:  0.7998952865600586
+Boundary box: car:  178   32   23   23
+Boundary box: car:  162   20   26   26
+Boundary box: car:  267   30   28   28
+Boundary box: car:  225   52   29   29
+Boundary box: car:  217   103   47   47
+Inference time:  0.8868927955627441
+Boundary box: car:  168   23   21   21
+Boundary box: car:  272   34   21   21
+Boundary box: car:  227   53   28   28
+Boundary box: car:  219   45   38   38
+Boundary box: car:  213   97   53   53
+Boundary box: car:  196   78   80   80
+Inference time:  0.9934539794921875
+Boundary box: car:  255   4   25   25
+Boundary box: car:  161   22   26   26
+Boundary box: car:  224   49   31   31
+Boundary box: car:  196   76   80   80
+Inference time:  0.9341075420379639
+Boundary box: car:  163   22   24   24
+Boundary box: car:  227   50   27   27
+Boundary box: car:  221   98   47   47
+Inference time:  1.0386602878570557
+Boundary box: car:  267   32   22   22
+Boundary box: car:  219   42   42   42
+Boundary box: car:  229   51   26   26
+Boundary box: car:  220   96   46   46
+Inference time:  0.9911022186279297
+Boundary box: car:  161   23   24   24
+Boundary box: car:  255   6   22   22
+Boundary box: car:  230   49   26   26
+Boundary box: car:  222   96   43   43
+Boundary box: car:  25   180   56   56
+Inference time:  0.979407548904419
+Boundary box: car:  254   7   22   22
+Boundary box: car:  162   24   23   23
+Boundary box: car:  271   30   23   23
+Boundary box: car:  228   46   29   29
+Boundary box: car:  228   95   41   41
+Boundary box: car:  31   168   60   60
+Inference time:  1.1180939674377441
+Boundary box: car:  256   8   21   21
+Boundary box: car:  272   31   21   21
+Boundary box: car:  265   26   30   30
+Boundary box: car:  232   50   23   23
+Boundary box: car:  225   91   45   45
+Boundary box: car:  42   167   54   54
+Inference time:  0.9799988269805908
+Boundary box: car:  272   31   21   21
+Boundary box: car:  28   24   22   22
+Boundary box: car:  265   26   30   30
+Boundary box: car:  229   43   31   31
+Boundary box: car:  238   99   28   28
+Boundary box: car:  227   90   44   44
+Boundary box: car:  211   70   70   70
+Inference time:  0.9726231098175049
+Boundary box: car:  159   22   26   26
+Boundary box: car:  232   45   27   27
+Boundary box: car:  228   88   44   44
+Boundary box: car:  220   70   63   63
+Inference time:  1.1105155944824219
+Boundary box: car:  173   38   22   22
+Boundary box: car:  252   7   22   22
+Boundary box: car:  232   44   28   28
+Boundary box: car:  228   85   44   44
+Inference time:  0.9680116176605225
+Boundary box: car:  251   6   22   22
+Boundary box: car:  228   39   35   35
+Boundary box: car:  235   46   25   25
+Boundary box: car:  227   84   44   44
+Boundary box: car:  217   72   60   60
+Inference time:  1.1542160511016846
+Boundary box: car:  252   5   21   21
+Boundary box: car:  160   25   23   23
+Boundary box: car:  234   44   25   25
+Boundary box: car:  232   82   45   45
+Boundary box: car:  56   136   96   96
+Inference time:  1.266012191772461
+Boundary box: car:  168   38   25   25
+Boundary box: car:  234   42   28   28
+Boundary box: car:  249   4   23   23
+Boundary box: car:  233   80   45   45
+Boundary box: car:  54   131   101   101
+Inference time:  0.8967339992523193
+Boundary box: car:  250   4   22   22
+Boundary box: car:  274   30   21   21
+Boundary box: car:  233   38   30   30
+Boundary box: car:  237   45   23   23
+Boundary box: car:  230   75   50   50
+Boundary box: car:  83   152   66   66
+Boundary box: car:  52   124   106   106
+Inference time:  1.0348155498504639
+Boundary box: car:  236   43   24   24
+Boundary box: car:  231   76   45   45
+Boundary box: car:  88   148   65   65
+Inference time:  1.0465281009674072
+Boundary box: car:  248   4   23   23
+Boundary box: car:  234   38   29   29
+Boundary box: car:  268   23   29   29
+Boundary box: car:  230   71   52   52
+Inference time:  1.0141017436981201
+Boundary box: car:  244   1   24   24
+Boundary box: car:  153   28   23   23
+Boundary box: car:  236   41   24   24
+Boundary box: car:  268   24   28   28
+Boundary box: car:  164   44   20   20
+Boundary box: car:  232   71   50   50
+Boundary box: car:  68   116   102   102
+Inference time:  1.202073097229004
+Boundary box: car:  244   3   24   24
+Boundary box: car:  269   25   25   25
+Boundary box: car:  239   42   23   23
+Boundary box: car:  229   28   43   43
+Boundary box: car:  233   68   51   51
+Boundary box: car:  78   111   99   99
+Inference time:  1.059478521347046
+Boundary box: car:  244   3   24   24
+Boundary box: car:  239   39   24   24
+Boundary box: car:  271   25   23   23
+Boundary box: car:  228   28   43   43
+Boundary box: car:  239   75   40   40
+Boundary box: car:  78   106   101   101
+Inference time:  1.1575188636779785
+Boundary box: car:  243   2   25   25
+Boundary box: car:  271   26   22   22
+Boundary box: car:  239   38   25   25
+Boundary box: car:  228   25   46   46
+Boundary box: car:  163   46   20   20
+Boundary box: car:  231   62   56   56
+Boundary box: car:  99   118   76   76
+Inference time:  1.1073999404907227
+Boundary box: car:  243   2   23   23
+Boundary box: car:  272   25   23   23
+Boundary box: car:  241   40   23   23
+Boundary box: car:  233   26   41   41
+Boundary box: car:  236   66   50   50
+Inference time:  0.9095704555511475
+Boundary box: car:  245   3   20   20
+Boundary box: car:  240   40   22   22
+Boundary box: car:  230   28   38   38
+Boundary box: car:  156   46   22   22
+Boundary box: car:  234   62   53   53
+Boundary box: car:  101   106   84   84
+Inference time:  1.063584566116333
+Boundary box: car:  270   24   23   23
+Boundary box: car:  241   38   22   22
+Boundary box: car:  232   29   36   36
+Boundary box: car:  237   62   50   50
+Boundary box: car:  126   116   63   63
+Boundary box: car:  98   91   101   101
+Inference time:  1.0543348789215088
+Boundary box: car:  243   3   21   21
+Boundary box: car:  237   32   30   30
+Boundary box: car:  242   63   45   45
+Boundary box: car:  117   127   42   42
+Inference time:  1.0761139392852783
+Boundary box: car:  243   1   22   22
+Boundary box: car:  238   32   29   29
+Boundary box: car:  268   20   28   28
+Boundary box: car:  239   60   49   49
+Boundary box: car:  128   107   68   68
+Inference time:  1.0569977760314941
+Boundary box: car:  269   22   25   25
+Boundary box: car:  239   33   27   27
+Boundary box: car:  235   56   55   55
+Boundary box: car:  137   110   58   58
+Inference time:  1.08467435836792
+Boundary box: car:  241   1   23   23
+Boundary box: car:  237   31   28   28
+Boundary box: car:  245   62   43   43
+Boundary box: car:  232   51   59   59
+Boundary box: car:  139   106   59   59
+Inference time:  1.2276997566223145
+Boundary box: car:  240   2   22   22
+Boundary box: car:  240   32   27   27
+Boundary box: car:  240   57   49   49
+Boundary box: car:  142   103   59   59
+Boundary box: car:  83   68   108   108
+Inference time:  1.0647823810577393
+Boundary box: car:  149   34   22   22
+Boundary box: car:  241   32   26   26
+Boundary box: car:  245   60   42   42
+Boundary box: car:  146   99   59   59
+Inference time:  1.067030668258667
+Boundary box: car:  239   31   27   27
+Boundary box: car:  268   14   38   38
+Boundary box: car:  247   57   44   44
+Boundary box: car:  153   102   52   52
+Inference time:  1.1439306735992432
+Boundary box: car:  237   1   21   21
+Boundary box: car:  241   31   25   25
+Boundary box: car:  253   63   34   34
+Boundary box: car:  233   45   62   62
+Boundary box: car:  153   95   57   57
+Inference time:  1.1595044136047363
+Boundary box: car:  242   31   24   24
+Boundary box: car:  242   52   50   50
+Boundary box: car:  156   92   57   57
+Inference time:  1.0972483158111572
+Boundary box: car:  236   1   21   21
+Boundary box: car:  242   31   24   24
+Boundary box: car:  248   56   42   42
+Boundary box: car:  156   86   63   63
+Inference time:  1.2284867763519287
+Boundary box: car:  242   30   24   24
+Boundary box: car:  247   53   46   46
+Inference time:  1.0123822689056396
+Boundary box: car:  242   30   25   25
+Boundary box: car:  243   49   49   49
+Inference time:  1.1253156661987305
+Boundary box: car:  244   31   21   21
+Boundary box: car:  244   48   51   51
+Inference time:  1.3444781303405762
+Boundary box: car:  235   1   20   20
+Boundary box: car:  262   66   22   22
+Boundary box: car:  237   40   63   63
+Inference time:  1.3740966320037842
+Boundary box: car:  132   30   32   32
+Boundary box: car:  234   28   80   80
+Boundary box: car:  248   47   47   47
+Boundary box: car:  175   97   21   21
+Inference time:  1.2448561191558838
+Boundary box: car:  244   29   24   24
+Boundary box: car:  234   28   80   80
+Boundary box: car:  247   44   50   50
+Boundary box: car:  178   95   22   22
+Inference time:  1.1333746910095215
+Boundary box: car:  243   27   25   25
+Boundary box: car:  121   22   45   45
+Boundary box: car:  242   40   57   57
+Inference time:  1.2220160961151123
+Boundary box: car:  245   28   23   23
+Boundary box: car:  248   44   48   48
+Boundary box: car:  124   61   23   23
+Boundary box: car:  183   92   20   20
+Inference time:  1.0445611476898193
+Boundary box: car:  267   18   23   23
+Boundary box: car:  244   28   23   23
+Boundary box: car:  133   40   21   21
+Boundary box: car:  247   41   51   51
+Boundary box: car:  186   90   20   20
+Boundary box: car:  116   120   58   58
+Inference time:  1.0395455360412598
+Boundary box: car:  245   38   54   54
+Inference time:  1.0145275592803955
+Boundary box: car:  133   41   21   21
+Boundary box: car:  247   42   48   48
+Inference time:  1.1384897232055664
+Boundary box: car:  269   19   21   21
+Boundary box: car:  128   38   25   25
+Boundary box: car:  260   52   32   32
+Inference time:  1.0144128799438477
+Boundary box: car:  245   38   52   52
+Boundary box: car:  269   18   20   20
+Boundary box: car:  71   186   53   53
+Inference time:  1.069072961807251
+Boundary box: car:  253   41   45   45
+Boundary box: car:  244   27   68   68
+Boundary box: car:  79   182   51   51
+Boundary box: car:  60   157   80   80
+Inference time:  1.0095024108886719
+Boundary box: car:  127   41   23   23
+Boundary box: car:  256   45   38   38
+Boundary box: car:  112   58   21   21
+Boundary box: car:  242   25   71   71
+Boundary box: car:  105   67   26   26
+Boundary box: car:  148   106   47   47
+Boundary box: car:  84   176   50   50
+Inference time:  1.0394506454467773
+Boundary box: car:  128   43   21   21
+Boundary box: car:  121   34   34   34
+Boundary box: car:  244   24   69   69
+Boundary box: car:  110   58   22   22
+Boundary box: car:  75   150   71   71
+Boundary box: car:  146   181   21   21
+Boundary box: pedestrian:  80   164   30   60
+Boundary box: pedestrian:  112   142   40   80
+Inference time:  1.2589709758758545
+Boundary box: car:  265   15   23   23
+Boundary box: car:  123   44   22   22
+Boundary box: car:  82   150   69   69
+Boundary box: car:  148   177   21   21
+Inference time:  1.1490769386291504
+Boundary box: car:  117   27   45   45
+Boundary box: car:  244   24   69   69
+Boundary box: car:  83   143   72   72
+Boundary box: pedestrian:  121   137   38   76
+Inference time:  1.3246891498565674
+Boundary box: car:  114   31   41   41
+Boundary box: car:  252   37   46   46
+Boundary box: car:  94   72   27   27
+Boundary box: car:  96   143   63   63
+Inference time:  1.2380704879760742
+Boundary box: car:  257   40   40   40
+Boundary box: car:  112   30   44   44
+Boundary box: car:  159   166   21   21
+Boundary box: pedestrian:  129   128   39   78
+Inference time:  1.5080845355987549
+Boundary box: car:  111   32   42   42
+Boundary box: car:  212   64   22   22
+Boundary box: car:  101   133   68   68
+Inference time:  1.0974454879760742
+Boundary box: car:  173   10   21   21
+Boundary box: car:  112   42   29   29
+Boundary box: car:  254   38   41   41
+Boundary box: car:  106   131   65   65
+Boundary box: car:  16   170   54   54
+Inference time:  1.11053466796875
+Boundary box: car:  173   10   20   20
+Boundary box: car:  253   33   46   46
+Boundary box: car:  108   32   43   43
+Boundary box: car:  117   47   22   22
+Boundary box: car:  115   128   60   60
+Inference time:  1.1881864070892334
+Boundary box: car:  173   10   21   21
+Boundary box: car:  106   32   45   45
+Boundary box: car:  253   31   48   48
+Boundary box: car:  86   65   24   24
+Boundary box: car:  115   125   60   60
+Inference time:  1.2665941715240479
+Boundary box: car:  173   10   20   20
+Boundary box: car:  110   39   35   35
+Boundary box: car:  255   34   43   43
+Boundary box: car:  84   68   23   23
+Boundary box: car:  119   118   63   63
+Inference time:  1.0806148052215576
+Boundary box: car:  174   10   21   21
+Boundary box: car:  104   34   43   43
+Boundary box: car:  124   116   61   61
+Boundary box: car:  55   195   43   43
+Inference time:  1.2877132892608643
+Boundary box: car:  173   10   20   20
+Boundary box: car:  101   33   46   46
+Boundary box: car:  257   35   40   40
+Boundary box: car:  127   114   61   61
+Boundary box: car:  46   178   59   59
+Inference time:  1.418531894683838
+Boundary box: car:  264   14   21   21
+Boundary box: car:  99   35   45   45
+Boundary box: car:  55   173   59   59
+Boundary box: pedestrian:  132   116   38   76
+Inference time:  1.1023540496826172
+Boundary box: car:  264   14   21   21
+Boundary box: car:  98   38   41   41
+Boundary box: car:  60   168   58   58
+Inference time:  1.3355214595794678
+Boundary box: car:  97   38   41   41
+Boundary box: car:  125   86   84   84
+Boundary box: car:  68   162   56   56
+Boundary box: pedestrian:  163   115   30   60
+Inference time:  1.488645315170288
+Boundary box: car:  94   32   52   52
+Boundary box: car:  76   160   55   55
+Inference time:  1.306755781173706
+Boundary box: car:  268   40   27   27
+Boundary box: car:  93   35   47   47
+Boundary box: car:  145   98   60   60
+Boundary box: car:  78   154   54   54
+Inference time:  1.31785249710083
+Boundary box: car:  89   35   50   50
+Boundary box: car:  227   52   20   20
+Boundary box: car:  53   76   28   28
+Boundary box: car:  89   154   49   49
+Inference time:  1.1542835235595703
+Boundary box: car:  89   40   42   42
+Boundary box: car:  175   10   23   23
+Boundary box: car:  51   78   26   26
+Boundary box: car:  91   146   53   53
+Inference time:  1.3599872589111328
+Boundary box: car:  175   10   23   23
+Boundary box: car:  88   42   40   40
+Boundary box: car:  226   47   23   23
+Boundary box: car:  98   145   48   48
+Inference time:  1.1306850910186768
+Boundary box: car:  173   10   23   23
+Boundary box: car:  83   37   50   50
+Boundary box: car:  102   140   50   50
+Inference time:  1.1834220886230469
+Boundary box: car:  175   10   23   23
+Boundary box: car:  88   48   35   35
+Boundary box: car:  36   82   30   30
+Boundary box: car:  107   136   50   50
+Inference time:  1.2116234302520752
+Boundary box: car:  81   41   46   46
+Boundary box: car:  89   54   27   27
+Boundary box: car:  113   133   48   48
+Inference time:  1.3614308834075928
+Boundary box: car:  80   42   47   47
+Boundary box: car:  116   129   50   50
+Inference time:  1.4187939167022705
+Boundary box: car:  210   6   48   48
+Boundary box: car:  79   47   40   40
+Boundary box: car:  156   68   74   74
+Boundary box: car:  222   131   35   35
+Boundary box: car:  122   128   46   46
+Inference time:  1.2224361896514893
+Boundary box: car:  260   9   26   26
+Boundary box: car:  210   6   48   48
+Boundary box: car:  268   35   28   28
+Boundary box: car:  81   49   37   37
+Boundary box: car:  126   124   46   46
+Inference time:  1.3656740188598633
+Boundary box: car:  173   11   25   25
+Boundary box: car:  74   43   46   46
+Boundary box: car:  174   84   48   48
+Boundary box: car:  7   104   41   41
+Boundary box: car:  129   121   45   45
+Inference time:  1.268273115158081
+Boundary box: car:  175   13   22   22
+Boundary box: car:  74   50   38   38
+Boundary box: car:  130   117   47   47
+Inference time:  1.0521514415740967
+Boundary box: car:  258   8   23   23
+Boundary box: car:  68   41   52   52
+Boundary box: car:  134   116   44   44
+Inference time:  1.137744426727295
+Boundary box: car:  173   14   21   21
+Boundary box: car:  273   36   22   22
+Boundary box: car:  64   39   57   57
+Boundary box: car:  138   112   45   45
+Inference time:  1.1314997673034668
+Boundary box: car:  75   59   29   29
+Boundary box: car:  69   47   47   47
+Boundary box: car:  142   110   42   42
+Inference time:  1.3728172779083252
+Boundary box: car:  259   10   21   21
+Boundary box: car:  63   41   55   55
+Boundary box: car:  149   108   40   40
+Inference time:  1.2089216709136963
+Boundary box: car:  258   10   21   21
+Boundary box: car:  71   61   28   28
+Boundary box: car:  61   48   49   49
+Boundary box: car:  148   104   44   44
+Inference time:  1.1974174976348877
+Boundary box: car:  257   10   20   20
+Boundary box: car:  59   48   49   49
+Boundary box: car:  154   104   39   39
+Inference time:  0.978400468826294
+Boundary box: car:  256   5   26   26
+Boundary box: car:  57   47   52   52
+Boundary box: car:  193   74   41   41
+Boundary box: car:  156   99   43   43
+Boundary box: car:  70   180   56   56
+Inference time:  1.0589871406555176
+Boundary box: car:  254   8   23   23
+Boundary box: car:  52   44   60   60
+Boundary box: car:  154   94   46   46
+Boundary box: car:  68   167   68   68
+Inference time:  1.07586669921875
+Boundary box: car:  162   96   40   40
+Boundary box: car:  80   166   61   61
+Inference time:  1.1470916271209717
+Boundary box: car:  50   48   54   54
+Boundary box: car:  195   70   41   41
+Boundary box: car:  241   110   26   26
+Boundary box: car:  165   90   46   46
+Boundary box: car:  81   159   64   64
+Inference time:  1.3243045806884766
+Boundary box: car:  162   87   48   48
+Boundary box: car:  89   155   61   61
+Inference time:  1.0877087116241455
+Boundary box: car:  35   46   61   61
+Boundary box: car:  242   106   28   28
+Boundary box: car:  166   87   44   44
+Boundary box: car:  97   152   58   58
+Inference time:  1.1489806175231934
+Boundary box: car:  40   60   42   42
+Boundary box: car:  169   85   45   45
+Boundary box: car:  99   145   61   61
+Inference time:  0.8684747219085693
+Boundary box: car:  174   88   37   37
+Boundary box: car:  32   41   69   69
+Boundary box: car:  105   143   58   58
+Inference time:  1.0415890216827393
+Boundary box: car:  252   8   21   21
+Boundary box: car:  33   52   56   56
+Boundary box: car:  174   79   46   46
+Boundary box: car:  250   101   26   26
+Boundary box: car:  107   136   62   62
+Inference time:  1.0980334281921387
+Boundary box: car:  34   63   42   42
+Boundary box: car:  24   45   69   69
+Boundary box: car:  179   82   39   39
+Boundary box: car:  114   134   59   59
+Inference time:  0.9706342220306396
+Boundary box: car:  178   77   43   43
+Boundary box: car:  26   52   60   60
+Boundary box: car:  119   130   57   57
+Inference time:  1.0225493907928467
+Boundary box: car:  252   6   23   23
+Boundary box: car:  181   80   37   37
+Boundary box: car:  26   52   60   60
+Boundary box: car:  122   128   56   56
+Inference time:  1.2100422382354736
+Boundary box: car:  23   49   66   66
+Boundary box: car:  182   75   43   43
+Boundary box: car:  250   97   25   25
+Boundary box: car:  132   129   48   48
+Inference time:  1.227613925933838
+Boundary box: car:  251   7   22   22
+Boundary box: car:  24   58   58   58
+Boundary box: car:  190   72   45   45
+Boundary box: car:  135   123   52   52
+Inference time:  1.152533769607544
+Boundary box: car:  17   54   62   62
+Boundary box: car:  256   95   22   22
+Boundary box: car:  136   119   53   53
+Boundary box: car:  152   138   80   80
+Total inferences:  500
+Cars:  3080  Bikes:  0  Pedestrian:  27  Bus:  1
+Number of frames:  120000
