@@ -24,7 +24,8 @@ def main():
     bus_count = 0
 
     num_frames = 0
-    # Get the first 100 inference times
+    
+    # Get the first 500 inference times
     while i < 500:
         
         ret, frames = cap.read()
@@ -50,24 +51,28 @@ def main():
         
         for (x,y,w,h) in cars:
             cv2.rectangle(frames,(x,y),(x+w,y+h),(0,0,255),2)
-        
+            print("Boundary box: car: ", x, " ", y, " ",  w, " ", h)
         car_count += len(cars)
 
         # Rectangle around Bikes
         for (x,y,w,h) in bikes:
             cv2.rectangle(frames,(x,y),(x+w,y+h),(0,255,0),2)
-        
+            print("Boundary box: bikes: ", x, " ", y, " ",  w, " ", h)
+
         bike_count += len(bikes)
 
         # Rectangle around Pedestrian
         for (x,y,w,h) in pedestrian:
             cv2.rectangle(frames,(x,y),(x+w,y+h),(255,0,0),2)
+            print("Boundary box: pedestrian: ", x, " ", y, " ",  w, " ", h)
         
         pedestrian_count += len(pedestrian)
 
         # Rectangle around Bus
         for (x,y,w,h) in bus:
             cv2.rectangle(frames,(x,y),(x+w,y+h),(255,255,255),2)
+            print("Boundary box: bus: ", x, " ", y, " ",  w, " ", h)
+
         bus_count += len(bus)
 
         i += 1
